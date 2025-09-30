@@ -1,0 +1,28 @@
+# Kolonneforklaring for oversettelsesnoekkel.csv
+
+oversettelsesnoekkel.csv er en forenklet kopi av NiN3SD2_Vedlegg.xlsx lastet ned 2025-09-19, fane V6_NATSYST_FRA_2.3_TIL_3.0.
+
+- rad_NiN3SD2_Vedlegg = radnummer (Rad) i NiN3SD2_Vedlegg.xlsx 2025-09-19
+- 2_kode = naturtypens kode i NiN versjon 2
+- 2_navn = naturtypens navn i NiN versjon 2
+- 2_grunntypedefinisjon = naturtypens grunntypedefinisjon i NiN versjon 2 gitt av NiN versjon 2-variabler
+- 3_HT = naturtypens hovedtype i NiN versjon 3
+- 3_GT = grunntype(r) i NiN versjon 3
+- FP = Følsomhetspresisjon
+- SP = Spesifiseringsevne
+- kommentar = nummererte fotnoter. Kommentarene finnes fra side 135 i [rapporten](https://artsdatabanken.no/Files/63295).
+- splittet_groenn = NiN2-hovedtype splittet på flere hovedtyper i NiN3
+- splittet_moerkgroenn = NiN2-hovedtype splittet på flere hovedtyper i NiN3
+- ikke_videreført = typer som ikke er videreført i NiN versjon 3. Markert med grå farge i original tabell.
+
+Kopiert tabelltekst fra [rapporten](https://artsdatabanken.no/Files/63295):
+
+Vedlegg 6. Oversettelse av natursystem-hovedtyper og -grunntyper FRA NiN versjon 2.3 TIL NiN versjon 3.0
+
+Oversettelsesnøkkelen for natursystem-hovedtyper og -grunntyper FRA NiN versjon 2.3 TIL NiN versjon 3.0 følger de generelle retningslinjene 
+for oversettelsesnøkling i NiN (se kapittel 2). Koder følger de respektive versjonenes kodesystemer (kortkoder i NiN 3.0). Oversettelsesnøkkelen 
+tar utgangspunkt i oversettelsen av lokale (LKM) og regionale (RKM) komplekse miljøvariabler mellom NiN-versjonene 2.x og 3.0 i Vedlegg 4 og
+hovedtypespesifikke trinn- og klasseinndelinger av LKM i Vedlegg 5. HT = Hovedtype(r). GT = Grunntype(r). FP = Følsomhetspresisjon. SP = 
+Spesifiseringsevne. Hovedtyper og grunntyper som ikke er videreført i NiN 3.0 som sådan er markert med × og grå farge i kolonnene for 
+oversettelse TIL NiN 3.0. Når NiN 2.x-hovedtyper er splittet på to eller flere NiN 3.0-hovedtyper, er ulike nyanser av grønn bakgrunnsfarge 
+benyttet for å skille mellom ulike hovedtyper i TIL-oversettelsen. Nummererte kommentarer er samlet som fotnoter til tabellen. Når TILoversettelsen inneholder flere typer, hvorav én antas å omfatte mer enn halvparten av det samlete arealet det oversettes TIL, er denne typen markert med understreket kode.

@@ -1,0 +1,928 @@
+﻿rad_NiN3SD2_Vedlegg;2_kode;2_navn;2_grunntypedefinisjon;3_HT;3_GT;FP;SP;kommentar;splittet_groenn;splittet_moerkgroenn;ikke_videre
+2;M1-1;stille til temmelig beskyttet fast algebunn [grønnalgebunn];SA∙3 | HF∙1 | VF∙1 | DL∙1,2;NA-MA02;01;4;4;NA;0;0;0
+3;M1-2;beskyttet øvre circalitoral fastbunn [rødalgebunn];SA∙3 | HF∙1 | VF∙2,3 | DL∙3;NA-MA02;10, 11;4;3;2;0;0;0
+4;M1-3;beskyttet infralitoral fastbunn [sukkertareskog];SA∙3 | HF∙1 | VF∙2 | DL∙2;NA-MA02;05;4;4;NA;0;0;0
+5;M1-4;litt beskyttet-svakt eksponert sublitoral fastbunn [sagtangbunn];SA∙3 | HF∙1 | VF∙2,3 | DL∙1;NA-MA02;02;4;4;NA;0;0;0
+6;M1-5;nokså eksponert infralitoral fastbunn [stortareskog];SA∙3 | HF∙1 | VF∙3 | DL∙2;NA-MA02;06;4;4;NA;0;0;0
+7;M1-6;nokså eksponert sublitoral fastbunn [fingertarebunn];SA∙3 | HF∙1 | VF∙3 | DL∙1;NA-MA02;03;4;4;NA;0;0;0
+8;M1-7;svært eksponert eufotisk fastbunn [svært eksponert fastbunn];SA∙3 | HF∙1 | VF∙4 | DL1-3;NA-MA02;04, 07, 08;4;4;2;0;0;0
+9;M1-8;nokså brakk svært beskyttet fast algebunn;SA∙2 | HF∙1 | VF∙1 | DL∙1,2;NA-MC02;01;4;4;5;1;0;0
+10;M1-9;nokså brakk beskyttet-eksponert øvre circasublitoral fastbunn;SA∙2 | HF∙1 | VF∙2,3 | DL∙3;NA-MC02;06;4;3;5;1;0;0
+11;M1-10;nokså brakk beskyttet infralitoral fastbunn;SA∙2 | HF∙1 | VF∙2 | DL∙2;NA-MC02;04;4;4;NA;1;0;0
+12;M1-11;nokså brakk beskyttet sublitoral fastbunn;SA∙2 | HF∙1 | VF∙2 | DL∙1;NA-MC02;02;4;4;5;1;0;0
+13;M1-12;nokså brakk nokså eksponert infralitoral fastbunn;SA∙2 | HF∙1 | VF∙3 | DL∙2;NA-MC02;05;4;4;NA;1;0;0
+14;M1-13;nokså brakk nokså eksponert sublitoral fastbunn;SA∙2 | HF∙1 | VF∙3 | DL∙1;NA-MC02;03;4;4;5;1;0;0
+15;M1-14;svært brakk svært beskyttet fast algebunn;SA∙1 | HF∙1 | VF∙1 | DL∙1,2;NA-MC02;07;4;4;5;1;0;0
+16;M1-15;svært brakk beskyttet-eksponert fast tareskogs-algebunn;SA∙1 | HF∙1 | VF∙2,3 | DL∙1,2;NA-MC02;08;4;4;5;1;0;0
+17;M1-16;svært beskyttet bergvegg under sublitoral;SA∙3 | HF∙2 | VF∙1 | DL∙1,2;NA-MA02;12;4;4;NA;0;0;0
+18;M1-17;beskyttet-eksponert øvre circalitoral bergvegg;SA∙3 | HF∙2 | VF∙2,3 | DL∙3;NA-MA02;15;4;4;NA;0;0;0
+19;M1-18;beskyttet-eksponert bergvegg under sublitoral;SA∙3 | HF∙2 | VF∙2,3 | DL∙1,2;NA-MA02;14;4;4;2;0;0;0
+20;M1-19;svært eksponert bergvegg [Bergvegg i sterk tidevannsstrøm];SA∙3 | HF∙2 | VF∙4 | DL∙1-3;NA-MA02;16;4;4;NA;0;0;0
+21;M1-20;svært beskyttet nokså brakk bergvegg;SA∙2 | HF∙2 | VF∙1 | DL∙1,2;NA-MC02;09;4;4;5;1;0;0
+22;M1-21;beskyttet-eksponert nokså brakk bergvegg i sublitoral;SA∙2 | HF∙2 | VF∙2,3 | DL∙3;NA-MC02;11;4;4;5;1;0;0
+23;M1-22;beskyttet-eksponert nokså brakk bergvegg under sublitoral;SA∙2 | HF∙2 | VF∙2,3 | DL∙1,2;NA-MC02;10;4;4;5;1;0;0
+24;M1-23;svært brakk bergvegg;SA∙1 | HF∙2 | VF∙1-3 | DL∙1,2;NA-MC02;12;4;4;5;1;0;0
+25;M1-24;svært beskyttet blokkdominert bunn under sublitoral;SI∙B | SA∙3 | HF∙2 | VF∙1 | DL∙1,2;NA;×;NA;NA;3;0;0;1
+26;M1-25;beskyttet-eksponert blokkdominert bunn i sublitoral;SI∙B | SA∙3 | HF∙2 | VF∙2,3 | DL∙1,2;NA-MA02;17;4;4;4;0;0;0
+27;M1-26;beskyttet-eksponert blokkdominert bunn under sublitoral;SI∙B | SA∙3 | HF∙2 | VF∙2,3 | DL∙3;NA-MA02;18;4;4;4;0;0;0
+28;M1-27;svært eksponert blokkdominert bunn;SI∙B | SA∙3 | HF∙2 | VF∙4 | DL∙1-3;NA-MA02;19;4;4;NA;0;0;0
+29;M1-28;beskyttet-eksponert nokså brakk blokkdominert bunn under sublitoral;SI∙B | SA∙2 | HF∙2 | VF∙2,3 | DL∙1;NA-MC02;12;4;4;NA;1;0;0
+30;M1-29;blokkdominert bunn preget av disruptiv isforstyrrelse;IF∙B | VF∙1-4 | DL∙1-3;"NA-MA02,NA-MC02";"20,13";4;4;NA;0;0;0
+32;M2-1;svært beskyttet afotisk fastbunn i øvre sublitoral [dypere fastbunn i øvre sublitoral med lite strøm];HF∙1 | DM∙1 | VF∙1;NA-MA03;01;3;2;6a,6b;0;0;0
+33;M2-2;svært beskyttet fastbunn i atlantisk vann [fastbunn i atlantisk vann med lite strøm];HF∙1 | DM∙2 | VF∙1;NA-MA03;04,10;4;2;6b;0;0;0
+34;M2-3;svært beskyttet fastbunn i intermediært vann [fastbunn i intermediært vann med lite strøm];HF∙1 | DM∙3 | VF∙1;NA-MA03;06;4;3;6b;0;0;0
+35;M2-4;svært beskyttet fastbunn i bathyal [fastbunn i bathyal med lite strøm];HF∙1 | DM∙4 | VF∙1;NA-MA03;08;4;2;6b;0;0;0
+36;M2-5;svært beskyttet fastbunn i abyssal [fastbunn i abyssal med lite strøm];HF∙1 | DM∙5 | VF∙1;NA-MA03;08;4;1;6b;0;0;0
+37;M2-6;temmelig og litt beskyttet afotisk fastbunn i øvre sublitoral [dypere fastbunn i øvre sublitoral med strømpåvirkning];HF∙1 | DM∙1 | VF∙2;NA-MA03;01,02;3;1;6a,6b;0;0;0
+38;M2-7;temmelig og litt beskyttet fastbunn i atlantisk vann [strømpåvirket fastbunn i atlantisk vann];HF∙1 | DM∙2 | VF∙2;NA-MA03;04,05,10,11;4;3;6b;0;0;0
+39;M2-8;temmelig og litt beskyttet fastbunn i intermediært vann [strømpåvirket fastbunn i intermediært vann];HF∙1 | DM∙3 | VF∙2;NA-MA03;06,07;4;3;6b;0;0;0
+40;M2-9;temmelig og litt beskyttet fastbunn i bathyal [strømpåvirket fastbunn i bathyal];HF∙1 | DM∙4 | VF∙2;NA-MA03;08,09;4;1;6b;0;0;0
+41;M2-10;temmelig og litt beskyttet fastbunn i abyssal [strømpåvirket fastbunn i abyssal];HF∙1 | DM∙5 | VF∙2;NA-MA03;08,09;4;1;6b;0;0;0
+42;M2-11;temmelig og litt beskyttet ultramafisk fastbunn i atlantisk vann [fastbunn dannet av varme kilder i atlantisk vann];HF∙1 | DM∙2 | VF∙2 | BK∙2;NA-MA03;04,05;4;0;6b;0;0;0
+43;M2-12;temmelig og litt beskyttet ultramafisk fastbunn i abyssal [abyssal fastbunn dannet av varme kilder];HF∙1 | DM∙5 | VF∙2 | BK∙2;NA-MA03;08,09;4;0;6b;0;0;0
+44;M2-13;svært beskyttet afotisk bergvegg i øvre sublitoral [dyp bergvegg i øvre sublitoral med lite strøm];HF∙2 | DM∙1 | VF∙1;NA-MA03;01;3;0;6a,6b,6c;0;0;0
+45;M2-14;temmelig og litt beskyttet eksponert bergvegg  i øvre sublitoral  [noe strømpåvirket dyp bergvegg i øvre sublitoral ];HF∙2 | DM∙1 | VF∙2;NA-MA03;01,02;3;0;6a,6b,6c;0;0;0
+46;M2-15;svært beskyttet bergvegg i atlantisk vann [lite strømpåvirket bergvegg i atlantisk vann];HF∙2 | DM∙2 | VF∙1;NA-MA03;04,10;4;0;6b,6c;0;0;0
+47;M2-16;temmelig og litt beskyttet bergvegg i nedre sublitoral [noe strømpåvirket bergvegg i atlantisk vann];HF∙2 | DM∙2 | VF∙2;NA-MA03;04,05,10,11;4;0;6b,6c;0;0;0
+48;M2-17;svært beskyttet bergvegg i intermediært vann [lite strømpåvirket bergvegg i intermediært vann];HF∙2 | DM∙3 | VF∙1;NA-MA03;06;4;0;6b,6c;0;0;0
+49;M2-18;temmelig og litt beskyttet bergvegg i intermediært vann [noe strømpåvirket bergvegg i intermediært vann];HF∙2 | DM∙3 | VF∙2;NA-MA03;06,07;4;0;6b,6c;0;0;0
+50;M2-19;svært beskyttet til nokså eksponert bathyal bergvegg [bathyal bergvegg];HF∙2 | DM∙4 | VF∙1,2;NA-MA03;08,09;4;0;6b,6c;0;0;0
+51;M2-20;svært beskyttet til nokså eksponert abyssal bergvegg [abyssal bergvegg];HF∙2 | DM∙5 | VF∙1,2;NA-MA03;08,09;4;0;6b,6c;0;0;0
+53;M3-1;stille til temmelig beskyttet bergknaus i hydrolitoral [grisetangbunn];HF∙1 | SA∙3 | VF∙1 | TV∙1;NA-MA01;01;4;4;NA;0;0;0
+54;M3-2;stille til temmelig beskyttet bergknaus i nedre landstrand [grønnalge-spiraltangbunn];HF∙1 | SA∙3 | VF∙1 | TV∙2;NA-MA01;02;4;4;NA;0;0;0
+55;M3-3;stille til temmelig beskyttet bergknaus i øvre landstrand [grønnalge-rurbunn];HF∙1 | SA∙3 | VF∙1 | TV∙3;NA-MA01;03;4;4;NA;0;0;0
+56;M3-4;litt beskyttet bergknaus i hydrolitoral [blæretangbunn];HF∙1 | SA∙3 | VF∙2 | TV∙1;NA-MA01;04;4;4;NA;0;0;0
+57;M3-5;litt beskyttet bergknaus i nedre landstrand [spiraltangbunn];HF∙1 | SA∙3 | VF∙2 | TV∙2;NA-MA01;05;4;4;NA;0;0;0
+58;M3-6;litt beskyttet bergknaus i øvre landstrand [sauetang-blåskjellbunn];HF∙1 | SA∙3 | VF∙2 | TV∙3;NA-MA01;06;4;4;NA;0;0;0
+59;M3-7;litt til svært eksponert bergknaus i hydrolitoral [remtangbunn];HF∙1 | SA∙3 | VF∙3 | TV∙1;NA-MA01;07;4;4;NA;0;0;0
+60;M3-8;litt til svært eksponert bergknaus i nedre landstrand [strandsnegl-blåskjellbunn];HF∙1 | SA∙3 | VF∙3 | TV∙2;NA-MA01;08;4;4;NA;0;0;0
+61;M3-9;litt til svært eksponert bergknaus i øvre landstrand [strandsnegl-blåskjell-rurbunn];HF∙1 | SA∙3 | VF∙3 | TV∙3;NA-MA01;09;4;4;NA;0;0;0
+62;M3-10;ekstremt eksponert bergknaus i fjærebeltet [bunn dominert av filamentøse alger];HF∙1 | SA∙3 | VF∙4 | TV∙1∙3;NA-MA01;10;4;4;NA;0;0;0
+63;M3-11;mesohalin stille til litt beskyttet bergknaus i hydrolitoral [temmelig brakk beskyttet bergknaus i hydrolitoral];HF∙1 | SA∙2 | VF∙1,2 | TV∙1;NA-MC01;01;4;4;NA;1;0;0
+64;M3-12;mesohalin stille til litt beskyttet bergknaus i geolitoral [temmelig brakk beskyttet bergknaus i geolitoral];HF∙1 | SA∙2 | VF∙1,2 | TV∙2,3;NA-MC01;02;4;4;NA;1;0;0
+65;M3-13;oligohalin stille til litt beskyttet fjæresone-bergknaus [svært brakk fjæresone-bergknaus];HF∙1 | SA∙1 | VF∙1,2 | TV∙1∙3;NA-MC01;03;4;4;NA;1;0;0
+66;M3-14;stille til temmelig beskyttet bergvegg i hydrolitoral [beskyttet nedre fjæresone-bergvegg];HF∙2 | SA∙3 | VF∙1 | TV∙1;NA-MA01;14;4;4;NA;0;0;0
+67;M3-15;stille til temmelig beskyttet bergvegg i geolitoral [beskyttet øvre fjæresone-bergvegg];HF∙2 | SA∙3 | VF∙1 | TV∙1,2;NA-MA01;15;4;4;NA;0;0;0
+68;M3-16;litt beskyttet bergvegg i hydrolitoral-geolitoral [litt beskyttet fjæresone-bergvegg];HF∙2 | SA∙3 | VF∙2 | TV∙1∙3;NA-MA01;16;4;4;NA;0;0;0
+69;M3-17;litt til ekstremt eksponert bergvegg i hydrolitoral-geolitoral [eksponert fjæresone-bergvegg];HF∙2 | SA∙3 | VF∙3,4 | TV∙1∙3;NA-MA01;17;4;4;NA;0;0;0
+70;M3-18;brakk stille til litt beskyttet bergvegg i hydrolitoral-geolitoral [brakk fjæresone-bergvegg];HF∙2 | SA∙1,2 | VF∙1,2 | TV∙1∙3;NA-MC01;18;4;4;NA;1;0;0
+71;M3-19;fjæresone-fastbunn preget av disruptiv isforstyrrelse [isskurt fjæresone-fastbunn];VF∙1∙3 | TV1∙3 | IF∙B;"NA-MA01,NA-MC01";"15,05";4;4;NA;0;0;0
+73;M4-1;uten finmateriale og finmaterialfattig bunn med ingen til temmelig liten erosjonsmotstand i sjøkant- og tareskogsbeltet [grunn sandbunn];DL∙1 | SA∙2 | TV∙1 | S3∙E∙ab | S3∙F∙0a;NA-MA05;01;3;4;7a;0;0;0
+74;M4-2;finmaterialdominert bunn med ingen og svært liten erosjonsmotstand i sjøkant- og tareskogsbeltet [grunn løs mudderbunn];DL∙1 | SA∙2 | TV∙1 | S3∙E∙0a | S3∙F∙¤;NA-MA05;06;4;1;7b;0;0;0
+75;M4-3;uten finmateriale og finmaterialfattig bunn med intermediær erosjonsmotstand i sjøkant- og tareskogsbeltet [grunn fin til middels grusbunn];DL∙1 | SA∙2 | TV∙1 | S3∙E∙c | S3∙F∙0a;NA-MA05;03;4;2;7a;0;0;0
+76;M4-4;litt og temmelig finmaterialrik bunn med temmelig liten til intermediær erosjonsmotstand i sjøkant-og tareskogsbeltet [grunn grovere blandet sandbunn];DL∙1 | SA∙2 | TV∙1 | S3∙E∙bc | S3∙F∙bc;NA-MA05;04,05;4;2;7a;0;0;0
+77;M4-5;finmaterialdominert bunn med temmelig liten til temmelig stor erosjonsmotstand i sjøkant- og tareskogsbeltet [grunn finsedimentbunn];DL∙1 | SA∙2 | TV∙1 | S3∙E∙bcd | S3∙F∙¤;NA-MA05;06;4;3;7b;0;0;0
+78;M4-6;uten finmateriale og finmaterialfattig bunn med temmelig stor til stor erosjonsmotstand i sjøkant-og tareskogsbeltet [grunn grus- og steinbunn];DL∙1 | SA∙2 | TV∙1 | S3∙E∙de | S3∙F∙0a;NA-MA05;02,03;4;2;7a;0;0;0
+79;M4-7;litt og temmelig finmaterialrik bunn med temmelig stor erosjonsmotstand i sjøkant-og tareskogsbeltet [grunn grus- og steinbunn med finmateriale];DL∙1 | SA∙2 | TV∙1 | S3∙E∙d | S3∙F∙bc;NA-MA05;05;4;2;7a;0;0;0
+80;M4-8;finmaterialdominert bunn med stor erosjonsmotstand i sjøkant-og tareskogsbeltet [grunn fastleirebunn];DL∙1 | SA∙2 | TV∙1 | S3∙E∙e | S3∙F∙¤;NA-MA05;16;4;3;NA;0;0;0
+81;M4-9;organisk finmaterialdominert bunn med ingen og svært liten erosjonsmotstand i sjøkant-og tareskogsbeltet [grunn algegytjebunn];DL∙1 | SA∙2 | TV∙1 | S3∙E∙0a | S3∙F∙¤ | IO∙2;NA-MA05;15;4;2;NA;0;0;0
+82;M4-10;skjellsandbunn i sjøkant-og tareskogsbeltet [grunn skjellsandbunn];DL∙1 | SA∙2 | TV∙1 | S3∙S∙a;NA-MA05;12;4;3;NA;0;0;0
+83;M4-11;ruglbunn i sjøkant-og tareskogsbeltet [grunn ruglbunn];DL∙1 | SA∙2 | TV∙1 | S3∙S∙b;NA-MA05;13;4;3;NA;0;0;0
+84;M4-12;uten finmateriale og finmaterialfattig bunn med ingen til temmelig liten erosjonsmotstand i rødalgebeltet [sandbunn i rødalgebeltet];DL∙2 | SA∙2 | S3∙E∙ab | S3∙F∙0a;NA-MA05;07;3;4;NA;0;0;0
+85;M4-13;finmaterialdominert bunn med ingen og svært liten erosjonsmotstand i rødalgebeltet [løs mudderbunn i rødalgebeltet];DL∙2 | SA∙2 | S3∙E∙0a | S3∙F∙¤;NA-MA05;11;4;1;7b;0;0;0
+86;M4-14;uten finmateriale og finmaterialfattig bunn med intermediær til stor erosjonsmotstand i rødalgebeltet [grus- og steinbunn i rødalgebeltet];DL∙2 | SA∙2 | S3∙E∙cde | S3∙F∙0a;NA-MA05;08;4;3;7b;0;0;0
+87;M4-15;litt og temmelig finmaterialrik bunn med temmelig liten til temmelig stor erosjonsmotstand i rødalgebeltet [finmaterialrik sedimentbunn i rødalgebeltet];DL∙2 | SA∙2 | S3∙E∙bcd | S3∙F∙bc;NA-MA05;09,10;4;4;NA;0;0;0
+88;M4-16;finmaterialdominert bunn med temmelig liten til temmelig stor erosjonsmotstand i rødalgebeltet [ finsedimentbunn i rødalgebeltet];DL∙2 | SA∙2 | S3∙E∙bcd | S3∙F∙¤;NA-MA05;11;4;3;NA;0;0;0
+89;M4-17;finmaterialdominert bunn med stor erosjonsmotstand i rødalgebeltet [fastleirebunn i rødalgebeltet];DL∙2 | SA∙2 | S3∙E∙e | S3∙F∙¤;NA-MA05;16;4;0;NA;0;0;0
+90;M4-18;organisk finmaterialdominert bunn med ingen og svært liten erosjonsmotstand i rødalgebeltet [algegytjebunn i rødalgebeltet];DL∙2 | SA∙2 | S3∙E∙0a | S3∙F∙¤ | IO∙2;NA-MA05;15;4;1;NA;0;0;0
+91;M4-19;skjellsandbunn i rødalgebeltet;DL∙2 | SA∙2 | S3∙S∙a;NA-MA05;12;4;0;NA;0;0;0
+92;M4-20;ruglbunn i rødalgebeltet;DL∙2 | SA∙2 | S3∙S∙b;NA-MA05;13;4;0;NA;0;0;0
+93;M4-21;brakk eufotisk bunn uten finmateriale og finmaterialfattig bunn med liten erosjonsmotstand [brakk sandbunn];DL∙1∙2 | SA∙1 | TV∙1 | S3∙E∙ab | S3∙F∙0a;NA-MC04;01,04;2;1;7f;0;1;0
+94;M4-22;brakk eufotisk finmaterialdominert bunn med ingen og svært liten erosjonsmotstand [brakk løs mudderbunn];DL∙1∙2 | SA∙1 | TV∙1 | S3∙E∙0a | S3∙F∙¤;NA-MC04;03,06;4;1;7b;0;1;0
+95;M4-23;brakk eufotisk litt og temmelig finmaterialrik bunn med temmelig liten til intermediær erosjonsmotstand [brakk  fin til middels grusbunn];DL∙1∙2 | SA∙1 | TV∙1 | S3∙E∙bc | S3∙F∙bc;NA-MC04;02,05;4;2;7f;0;1;0
+96;M4-24;brakk eufotisk finmaterialdominert bunn med temmelig liten til stor erosjonsmotstand [brakk grov silt- til fast leirbunn];DL∙1∙2 | SA∙1 | TV∙1 | S3∙E∙bcde | S3∙F∙¤;NA-MC04;03,06;4;2;7b;0;1;0
+97;M4-25;brakk eufotisk uten finmateriale og finmaterialfattig bunn med intermediær til stor erosjonsmotstand [brakk fin grus- til steinbunn];DL∙1∙2 | SA∙1 | TV∙1 | S3∙E∙cde | S3∙F∙0a;NA-MC04;01,04;3;2;7f;0;1;0
+98;M4-26;brakk eufotisk litt og temmelig finmaterialrik bunn med temmelig stor erosjonsmotstand [brakk grus- og steinbunn med finmateriale];DL∙1∙2 | SA∙1 | TV∙1 | S3∙E∙d | S3∙F∙bc;NA-MC04;02,05;4;1;7f;0;1;0
+99;M4-27;brakk eufotisk organisk finmaterialdominert bunn med ingen og svært liten erosjonsmotstand [brakk algegytjebunn];DL∙1∙2 | SA∙1 | TV∙1 | S3∙E∙0a | S3∙F∙¤ | IO∙2;NA-MC04;07,08;4;4;NA;0;1;0
+100;M4-28;brakk eufotisk sterkt kalkrik organisk finmaterialdominert bunn med ingen og svært liten erosjonsmotstand [brakk løs kalkmudderbunn];DL∙1∙2 | SA∙1 | TV∙1 | S3∙E∙0a | S3∙F∙¤ |  | KA∙2;NA-MC04;09;4;4;NA;0;1;0
+101;M4-29;uten fimateriale og finmaterialfattig bunn med liten erosjonsmotstand i hydrolitoral [hydrolitoral sandbunn];DL∙1 | SA∙2 | TV∙2 | S3∙E∙ab | S3∙F∙0a;NA-MA04;01,06;3;3;7a,7d;1;0;0
+102;M4-30;finmaterialdominert bunn med ingen og svært liten erosjonsmotstand i hydrolitoral [hydrolitoral løs mudderbunn];DL∙1 | SA∙2 | TV∙2 | S3∙E∙0a | S3∙F∙¤;NA-MA04;05;4;1;7b;1;0;0
+103;M4-31;litt og temmelig finmaterialrik bunn med temmelig liten til intermediær erosjonsmotstand i hydrolitoral [hydrolitoral fin til middels grusbunn];DL∙1 | SA∙2 | TV∙2 | S3∙E∙bc | S3∙F∙bc;NA-MA04;04,10;4;3;NA;1;0;0
+104;M4-32;finmaterialdominert bunn med temmelig liten til intermediær erosjonsmotstand i hydrolitoral [hydrolitoral siltbunn];DL∙1 | SA∙2 | TV∙2 | S3∙E∙bc | S3∙F∙¤;NA-MA04;05;4;2;7b;1;0;0
+105;M4-33;uten fimateriale og finmaterialfattig bunn med intermediær erosjonsmotstand i hydrolitoral [hydrolitoral fin til middels grusbunn];DL∙1 | SA∙2 | TV∙2 | S3∙E∙c | S3∙F∙0a;NA-MA04;02,08;4;2;7a;1;0;0
+106;M4-34;uten fimateriale og finmaterialfattig bunn med temmelig stor til stor erosjonsmotstand i hydrolitoral [hydrolitoral grov grus- til steinbunn];DL∙1 | SA∙2 | TV∙2 | S3∙E∙de | S3∙F∙0a;NA-MA04;02,03,08,09;4;2;7a;1;0;0
+107;M4-35;finmaterialdominert bunn med temmelig stor erosjonsmotstand i hydrolitoral [hydrolitoral leirbunn];DL∙1 | SA∙2 | TV∙2 | S3∙E∙d | S3∙F∙¤;NA-MA04;05;4;1;7c;1;0;0
+108;M4-36;organisk finmaterialdominert bunn med ingen og svært liten erosjonsmotstand i hydrolitoral [hydrolitoral algegytjebunn];DL∙1 | SA∙2 | TV∙2 | S3∙E∙0a | S3∙F∙¤ | IO∙2;NA-MA04;05;4;0;7b;1;0;0
+109;M4-37;hydrolitoral skjellsandbunn;DL∙1 | SA∙2 | TV∙2 | S3∙S∙a;NA-MA04;11;4;3;7e;1;0;0
+110;M4-38;brakk uten fimateriale og finmaterialfattig bunn med liten erosjonsmotstand i hydrolitoral [brakk hydrolitoral sandbunn];DL∙1 | SA∙1 | TV∙2 | S3∙E∙ab | S3∙F∙0a;NA-MA04;01,06;3;0;7a,7d;1;0;0
+111;M4-39;brakk finmaterialdominert bunn med ingen og svært liten erosjonsmotstand i hydrolitoral [brakk hydrolitoral løs mudderbunn];DL∙1 | SA∙1 | TV∙2 | S3∙E∙0a | S3∙F∙¤;NA-MA04;05;4;0;7b;1;0;0
+112;M4-40;brakk litt og temmelig finmaterialrik bunn med temmelig liten til intermediær erosjonsmotstand i hydrolitoral [brakk hydrolitoral fin til middels grusbunn];DL∙1 | SA∙1 | TV∙2 | S3∙E∙bc | S3∙F∙bc;NA-MA04;04,10;4;0;7b;1;0;0
+113;M4-41;brakk finmaterialdominert bunn med temmelig liten til intermediær erosjonsmotstand i hydrolitoral [brakk hydrolitoral siltbunn];DL∙1 | SA∙1 | TV∙2 | S3∙E∙bc | S3∙F∙¤;NA-MA04;05;4;0;7b;1;0;0
+114;M4-42;brakk finmaterialdominert bunn med temmelig stor erosjonsmotstand i hydrolitoral [brakk hydrolitoral leirbunn];DL∙1 | SA∙1 | TV∙2 | S3∙E∙d | S3∙F∙¤;NA-MA04;05;4;0;7c;1;0;0
+115;M4-43;brakk organisk finmaterialdominert bunn med ingen og svært liten erosjonsmotstand i hydrolitoral [brakk hydrolitoral algegytjebunn];DL∙1 | SA∙1 | TV∙2 | S3∙E∙0a | S3∙F∙¤ | IO∙2;NA-MA04;05;4;0;7b;1;0;0
+116;M4-44;eufotisk sedimentbunn preget av disruptiv sedimentasjon [sedimentbunn preget av stor massetransport];DL∙1∙2 | SA∙1∙2 | S3∙E∙abcde | S3∙F∙0abc | SE∙B;NA-MC04;10;4;4;8;0;1;0
+118;M5-1;uten finmateriale og finmaterialfattig afotisk bunn med liten erosjonsmotstand i øvre sublitoral [sandbunn i øvre sublitoral];DM∙1 | S3∙E∙ab | S3∙F0a;NA-MA06;01;3;3;6a,7a,7g;0;0;0
+119;M5-2;finmaterialdominert afotisk bunn med ingen og svært liten erosjonsmotstand i øvre sublitoral [løs mudderbunn i øvre sublitoral];DM∙1 | S3∙E∙0a | S3∙F∙¤;NA-MA06;05;3;1;6a,7a,7b,7g;0;0;0
+120;M5-3;uten finmateriale og finmaterialfattig afotisk bunn med intermediær til stor erosjonsmotstand i øvre sublitoral [fin grus- til steinbunn i øvre sublitoral];DM∙1 | S3∙E∙cde | S3∙F∙0a;NA-MA06;02;3;3;6a,7a,7g;0;0;0
+121;M5-4;litt og temmelig finmaterialrik afotisk bunn med temmelig liten til temmelig stor erosjonsmotstand i øvre sublitoral [finmaterialerik sedimentbunn i øvre sublitoral];DM∙1 | S3∙E∙bcd | S3∙F∙bc;NA-MA06;03,04;3;3;6a,7g;0;0;0
+122;M5-5;finmaterialdominert afotisk bunn med temmelig liten til temmelig stor erosjonsmotstand i øvre sublitoral [finsedimentbunn i øvre sublitoral];DM∙1 | S3∙E∙bcd | S3∙F∙¤;NA-MA06;05;3;2;6a,7a,7b,7g;0;0;0
+123;M5-6;finmaterialdominert afotisk bunn med stor erosjonsmotstand i øvre sublitoral [fastleirebunn i øvre sublitoral];DM∙1 | S3∙E∙e | S3∙F∙¤;NA-MA06;30;4;1;9a;0;0;0
+124;M5-7;organisk finmaterialdominert afotisk bunn med ingen og svært liten erosjonsmotstand i øvre sublitoral [algegytjebunn i øvre sublitoral];DM∙1 | S3∙E∙0a | S3∙F∙¤ | IO∙2;NA-MA06;29;4;2;9a;0;0;0
+125;M5-8;afotisk skjellsandbunn i øvre sublitoral [skjellsandbunn i øvre sublitoral];DM∙1 | S3∙S∙a;NA-MA06;26;4;3;9a;0;0;0
+126;M5-9;afotisk svampspikelbunn i øvre sublitoral [svampspikelbunn i øvre sublitoral];DM∙1 | S3∙S∙c;NA;×;NA;NA;9b;0;0;1
+127;M5-10;afotisk korallgrusbunn i øvre sublitoral [korallgrusbunn i øvre sublitoral];DM∙1 | S3∙S∙d;NA-MA06;28;4;2;9a;0;0;0
+128;M5-11;uten finmateriale og finmaterialfattig afotisk bunn med liten erosjonsmotstand i atlantisk vann [sandbunn i atlantisk vann];DM∙2 | S3∙E∙ab | S3∙F0a;NA-MA06;06;3;4;7a;0;0;0
+129;M5-12;finmaterialdominert afotisk bunn med ingen og svært liten erosjonsmotstand i atlantisk vann [løs mudderbunn i atlantisk vann];DM∙2 | S3∙E∙0a | S3∙F∙¤;NA-MA06;10;4;1;7a,7b;0;0;0
+130;M5-13;uten finmateriale og finmaterialfattig afotisk bunn med intermediær til stor erosjonsmotstand i atlantisk vann [fin grus- til steinbunn i atlantisk vann];DM∙2 | S3∙E∙cde | S3∙F∙0a;NA-MA06;07;3;3;7a;0;0;0
+131;M5-14;litt og temmelig finmaterialrik afotisk bunn med temmelig liten til temmelig stor erosjonsmotstand i atlantisk vann [finmaterialerik sedimentbunn i atlantisk vann];DM∙2 | S3∙E∙bcd | S3∙F∙bc;NA-MA06;08,09;4;4;NA;0;0;0
+132;M5-15;finmaterialdominert afotisk bunn med temmelig liten til temmelig stor erosjonsmotstand i atlantisk vann [finsedimentbunn i atlantisk vann];DM∙2 | S3∙E∙bcd | S3∙F∙¤;NA-MA06;10;3;2;7b;0;0;0
+133;M5-16;finmaterialdominert afotisk bunn med stor erosjonsmotstand i atlantisk vann [fastleirebunn i atlantisk vann];DM∙2 | S3∙E∙e | S3∙F∙¤;NA-MA06;30;4;2;9;0;0;0
+134;M5-17;organisk finmaterialdominert afotisk bunn med ingen og svært liten erosjonsmotstand i atlantisk vann [algegytjebunn i atlantisk vann];DM∙2 | S3∙E∙0a | S3∙F∙¤ | IO∙2;NA-MA06;29;4;1;9;0;0;0
+135;M5-18;svampspikelbunn i atlantisk vann;DM∙2 | S3∙S∙c;NA-MA06;27;4;2;9a;0;0;0
+136;M5-19;korallgrusbunn i atlantisk vann;DM∙2 | S3∙S∙d;NA-MA06;28;4;1;9a;0;0;0
+137;M5-20;uten finmateriale og finmaterialfattig afotisk bunn med liten erosjonsmotstand i intermediært vann [sandbunn i intermediært vann];DM∙3 | S3∙E∙ab | S3∙F0a;NA-MA06;11;3;4;7a;0;0;0
+138;M5-21;finmaterialdominert afotisk bunn med ingen og svært liten erosjonsmotstand i intermediært vann [løs mudderbunn i intermediært vann];DM∙3 | S3∙E∙0a | S3∙F∙¤;NA-MA06;15;4;1;7a,7b;0;0;0
+139;M5-22;uten finmateriale og finmaterialfattig afotisk bunn med intermediær til stor erosjonsmotstand i intermediært vann [fin grus- til steinbunn i intermediært vann];DM∙3 | S3∙E∙cde | S3∙F∙0a;NA-MA06;12;4;3;7a;0;0;0
+140;M5-23;litt og temmelig finmaterialrik afotisk bunn med temmelig liten til temmelig stor erosjonsmotstand i intermediært vann [finmaterialerik sedimentbunn i intermediært vann];DM∙3 | S3∙E∙bcd | S3∙F∙bc;NA-MA06;13,14;4;4;NA;0;0;0
+141;M5-24;finmaterialdominert afotisk bunn med temmelig liten til temmelig stor erosjonsmotstand i intermediært vann [finsedimentbunn i intermediært vann];DM∙3 | S3∙E∙bcd | S3∙F∙¤;NA-MA06;15;3;2;7b;0;0;0
+142;M5-25;finmaterialdominert afotisk bunn med stor erosjonsmotstand i intermediært vann [fast leirbunn i intermediært vann];DM∙3 | S3∙E∙e | S3∙F∙¤;NA-MA06;30;4;1;9;0;0;0
+143;M5-26;svampspikelbunn i intermediært vann;DM∙3 | S3∙S∙c;NA-MA06;27;4;2;9a;0;0;0
+144;M5-27;uten finmateriale og finmaterialfattig afotisk bunn med liten erosjonsmotstand i bathyal [bathyal sandbunn];DM∙4 | S3∙E∙ab | S3∙F0a;NA-MA06;16,18;3;3;7a,7h;0;0;0
+145;M5-28;finmaterialdominert afotisk bunn med ingen og svært liten erosjonsmotstand i bathyal [bathyal løs mudderbunn];DM∙4 | S3∙E∙0a | S3∙F∙¤;NA-MA06;20;4;1;7b,7h;0;0;0
+146;M5-29;uten finmateriale og finmaterialfattig afotisk bunn med intermediær til stor erosjonsmotstand i bathyal [bathyal fin grus- til steinbunn];DM∙4 | S3∙E∙cde | S3∙F∙0a;NA-MA06;17,19;3;3;7a,7h;0;0;0
+147;M5-30;finmaterialdominert bunn med temmelig liten til temmelig stor erosjonsmotstand i bathyal [bathyal finsedimentbunn];DM∙4 | S3∙E∙bcd | S3∙F∙¤;NA-MA06;18,20;4;2;7b,7h;0;0;0
+148;M5-31;finmaterialdominert bunn med stor erosjonsmotstand i bathyal [bathyal fast leirbunn];DM∙4 | S3∙E∙e | S3∙F∙¤;NA-MA06;30;4;0;9;0;0;0
+149;M5-32;svampspikelbunn i bathyal [bathyal svampspikelbunn];DM∙4 | S3∙S∙c;NA;×;NA;NA;9b;0;0;1
+150;M5-33;uten finmateriale og finmaterialfattig afotisk bunn med liten erosjonsmotstand i abyssal [abyssal sandbunn];DM∙5 | S3∙E∙ab | S3∙F0a;NA-MA06;16,18;3;3;7a,7h,10;0;0;0
+151;M5-34;finmaterialdominert afotisk bunn med ingen og svært liten erosjonsmotstand i abyssal [abyssal løs mudderbunn];DM∙5 | S3∙E∙0a | S3∙F∙¤;NA-MA06;31;4;2;10;0;0;0
+152;M5-35;uten finmateriale og finmaterialfattig afotisk bunn med intermediær til stor erosjonsmotstand i abyssal [abyssal fin grus- til steinbunn];DM∙5 | S3∙E∙cde | S3∙F∙0a;NA-MA06;17,19;3;3;7a,7h,10;0;0;0
+153;M5-36;finmaterialdominert bunn med temmelig liten til temmelig stor erosjonsmotstand i abyssal [abyssal finsedimentbunn];DM∙5 | S3∙E∙bcd | S3∙F∙¤;NA-MA06;31;4;1;10;0;0;0
+154;M5-37;finmaterialdominert bunn med stor erosjonsmotstand i abyssal [abyssal fast leirbunn];DM∙5 | S3∙E∙e | S3∙F∙¤;NA-MA06;30;4;0;9;0;0;0
+155;M5-38;svampspikelbunn i abyssal [abyssal svampspikelbunn];DM∙5 | S3∙S∙c;NA;×;NA;NA;9b;0;0;1
+157;M6-1;kysttilknyttet korallrev-bunn [kystnær korallrevbunn];KY∙A;NA-MC03;01;4;4;NA;0;0;0
+158;M6-2;havtilknyttet korallrev-bunn [hav-korallrevbunn];KY∙B;NA-MC03;02;4;4;NA;0;0;0
+160;M7-1;Brakk undervannseng i sublitoral [Grunn brakkvannseng];SA∙1 | TV∙1;NA-MF01;01;4;4;11a;1;0;0
+161;M7-2;Brakk undervannseng i hydrolitoral [Sublitoral brakkvannseng];SA∙1 | TV∙2;NA-MF01;02;4;4;11a;1;0;0
+162;M7-3;Salt undervannseng i sublitoral [Grunn saltvannseng];SA∙2 | TV∙1;NA-MB02;01;4;4;11a;0;0;0
+163;M7-4;Salt undervannseng i hydrolitoral [Sublitoral saltvannseng];SA∙2 | TV∙2;NA-MB02;02;4;4;11a;0;0;0
+165;M8-1;Helofytt-saltvannssump;0;NA-MB01;01;4;4;12;0;0;0
+167;M9-1;Stort litoralbasseng i geolitoralen [Stort litoralbasseng på landstrand];SM∙1 | TV∙1;NA-MC03;01;3;1;NA;0;0;0
+168;M9-2;Stort litoralbasseng i nedre og midtre supralitoral [Stort litoralbasseng i bølgeslagssonen];SM∙1 | TV∙2;NA-MC03;03;4;1;NA;0;0;0
+169;M9-3;Stort litoralbasseng i øvre supralitoral [Stort litoralbasseng i bølgesprutsonen];SM∙1 | TV∙3;NA-MC03;03;4;0;NA;0;0;0
+170;M9-4;Lite litoralbasseng i geolitoralen [Lite litoralbasseng på landstrand];SM∙2 | TV∙1;NA-MC03;01;3;2;NA;0;0;0
+171;M9-5;Lite litoralbasseng i nedre og midtre supralitoral [Lite litoralbasseng i bølgeslagssonen];SM∙2 | TV∙2;NA-MC03;03;4;2;NA;0;0;0
+172;M9-6;Lite litoralbasseng i øvre supralitoral [Lite litoralbasseng i bølgesprutsonen];SM∙2 | TV∙3;NA-MC03;03;4;0;NA;0;0;0
+173;M9-7;Temporært litoralbasseng i supralitoral [Temporært litoralbasseng];SM∙3 | TV∙2,3;NA-MC03;04;4;4;NA;0;0;0
+174;M9-8;Stort litoralbasseng i geolitoralen med klart sedimentasjonspreg [Stort litoralbasseng med sedimentasjonsbunn];SM∙1 | TV∙1 | SE∙2;NA-MC03;02;3;1;NA;0;0;0
+175;M9-9;Lite litoralbasseng i geolitoralen med klart sedimentasjonspreg [Lite litoralbasseng med sedimentasjonsbunn];SM∙2 | TV∙1 | SE∙2;NA-MC03;02;3;2;NA;0;0;0
+177;M10-1;Overheng og ytre deler av grotte i tidevannsbeltet [ytre brenningsgrotte];DL∙1 | GS∙1;NA-MC05;01;4;4;NA;0;0;0
+178;M10-2;Overheng og ytre deler av grotte i eufotisk sone [ytre marin gruntvannsgrotte];DL∙2 | GS∙1;NA-MC05;03;4;4;NA;0;0;0
+179;M10-3;Grotte i afotisk sone [marin dypgrotte];DL∙3 | GS∙1,2;NA-MC05;05;4;4;NA;0;0;0
+180;M10-4;Midtre og indre deler av grotte i tidevannsbeltet [indre brenningsgrotte];DL∙1 | GS∙2;NA-MC05;02;4;4;NA;0;0;0
+181;M10-5;Midtre og indre deler av grotte i eufotisk sone [indre marin gruntvannsgrotte];DL∙2 | GS∙2;NA-MC05;04;4;4;NA;0;0;0
+183;M11-1;Ustabil kilde på sublitoral sokkel;DM∙1 | KI∙1;NA-MC06;01;3;1;14a,14b;0;0;0
+184;M11-2;Stabil kilde på sublitoral sokkel;DM∙1 | KI∙2;NA-MC06;01;3;1;14a, 14b;0;0;0
+185;M11-3;Ustabil kilde i nedre sublitoral;DM∙2 | KI∙1;NA-MC06;01;4;1;14a;0;0;0
+186;M11-4;Stabil kilde i nedre sublitoral;DM∙2 | KI∙2;NA-MC06;01;4;1;14a;0;0;0
+187;M11-5;Ustabil kilde i dyphavet [Ustabil dyphavskilde];DM∙3 | KI∙1;NA-MC06;03,05;4;2;14a;0;0;0
+188;M11-6;Stabil kilde i dyphavet [Stabil dyphavskilde];DM∙3 | KI∙2;NA-MC06;03,05;4;1;14a;0;0;0
+189;M11-7;Stabil mudderførende kald havkilde i dyphavet [Muddervulkan];DM∙3 | KI∙2 | KT∙B;NA-MC06;04;4;4;14c;0;0;0
+191;M12-1;observerbart og litt jordvarmeinfluert kilde i øvre sublitoral;JV∙1 | DM∙1;NA-MC07;01;4;0;NA;0;0;0
+192;M12-2;observerbart og litt jordvarmeinfluert kilde i nedre sublitoral;JV∙1 | DM∙2;NA-MC07;01;4;0;NA;0;0;0
+193;M12-3;observerbart og litt jordvarmeinfluert kilde i dyphavet;JV∙1 | DM∙3;NA-MC07;01;4;3;NA;0;0;0
+194;M12-4;Sterkt jordvarmeinfluert kilde i øvre sublitoral;JV∙2 | DM∙1;NA-MC07;02;4;0;NA;0;0;0
+195;M12-5;temmelig og sterkt jordvarmeinfluert kilde i nedre sublitoral;JV∙2 | DM∙2;NA-MC07;02;4;0;NA;0;0;0
+196;M12-6;temmelig og sterkt jordvarmeinfluert kilde i dyphavet;JV∙2 | DM∙3;NA-MC07;02;4;3;NA;0;0;0
+197;M12-7;ekstremt sterkt og disruptiv jordvarmeinfluert kilde;JV∙3 | DM∙1∙3;NA-MC07;03;4;4;NA;0;0;0
+199;M13-1;Periodisk anoksisk sedimentbunn i eufotisk sone [Periodisk anoksisk grunnere sedimentbunn];OM∙1 | DL∙1;NA-MC08;01;4;4;NA;0;0;0
+200;M13-2;Periodisk anoksisk sedimentbunn i afotisk sone [Periodisk anoksisk dypere sedimentbunn];OM∙1 | DL∙2;NA-MC08;03;4;4;NA;0;0;0
+201;M13-3;Anoksisk sedimentbunn i eufotisk sone [Anoksisk grunnere sedimentbunn];OM∙2 | DL∙1;NA-MC08;02;4;4;NA;0;0;0
+202;M13-4;Anoksisk sedimentbunn i afotisk sone [Anoksisk dypere sedimentbunn];OM∙2 | DL∙2;NA-MC08;04;4;4;NA;0;0;0
+204;M14-1;Sterkt endret eller ny fast saltvannsbunn i tidevannssonen [Sterkt endret marin fastbunn i tidevannssonen];DL∙1;NA-MM01;01;4;4;NA;0;0;0
+205;M14-2;Sterkt endret eller ny fast saltvannsbunn i eufotisk sone [Sterkt endret grunn marin fastbunn];DL∙2;NA-MM01;02;4;4;NA;0;0;0
+206;M14-3;Sterkt endret eller ny fast saltvannsbunn i afotisk sone [Sterkt endret dyp marin fastbunn];DL∙3;NA-MM01;03;4;4;NA;0;0;0
+208;M15-1;Sand- og grusdominert sterkt endret eller ny marin sedimentbunn [Sterkt endret sand- og grusbunn];S3∙E∙1 | S3∙F∙1 | HS*∙A;NA-MM01;04;4;2;16a;0;0;0
+209;M15-2;Løst mudder og silt- og leirdominert sterkt endret eller ny marin sedimentbunn [Sterkt endret løsbunn];S3∙E∙1 | S3∙F∙2 | HS*∙A;NA-MM01;05,06;4;4;NA;0;0;0
+210;M15-3;Steindominert sterkt endret eller ny marin sedimentbunn [Sterkt endret steinbunn];S3∙E∙3 | S3∙F∙1 | HS*∙A;NA-MM01;04;4;1;16a;0;0;0
+211;M15-4;Løst mudder og silt- og leirdominert sterkt endret eller ny marin sedimentbunn med sterkt avvikende kjemisk sammensetning [Sterkt forurenset løsbunn];S3∙E∙1 | S3∙F∙2 | HS*∙B;NA-MM02;02;4;4;NA;1;0;0
+213;L1-1;Svært kalkfattig og beskyttet fast strandkant-innsjøbunn;KA∙1 | DL∙1 | VF∙1 | TU∙1;NA-LA01;01;4;4;NA;0;0;0
+214;L1-2;Svært kalkfattig og eksponert fast strandkant-innsjøbunn;KA∙1 | DL∙1 | VF∙2 | TU∙1;NA-LA01;02;4;4;NA;0;0;0
+215;L1-3;Svært kalkfattig beskyttet grunn fast innsjøbunn;KA∙1 | DL∙2 | VF∙1 | TU∙1;NA-LA01;03;4;4;NA;0;0;0
+216;L1-4;Noe kalkfattig og beskyttet fast strandkant-innsjøbunn;KA∙2 | DL∙1 | VF∙1 | TU∙1;NA-LA01;04;4;4;NA;0;0;0
+217;L1-5;Noe kalkfattig og eksponert fast strandkant-innsjøbunn;KA∙2 | DL∙1 | VF∙2 | TU∙1;NA-LA01;05;4;4;NA;0;0;0
+218;L1-6;Noe kalkfattig beskyttet grunn fast innsjøbunn;KA∙2 | DL∙2 | VF∙1 | TU∙1;NA-LA01;06;4;4;NA;0;0;0
+219;L1-7;Moderat kalkrik og beskyttet fast strandkant-innsjøbunn ;KA∙3 | DL∙1 | VF∙1 | TU∙1;NA-LA01;07;4;4;NA;0;0;0
+220;L1-8;Moderat kalkrik og eksponert fast strandkant-innsjøbunn;KA∙3 | DL∙1 | VF∙2 | TU∙1;NA-LA01;08;4;4;NA;0;0;0
+221;L1-9;Moderat kalkrik beskyttet grunn fast innsjøbunn;KA∙3 | DL∙2 | VF∙1 | TU∙1;NA-LA01;09;4;4;NA;0;0;0
+222;L1-10;Svært kalkrik og beskyttet fast strandkant-innsjøbunn;KA∙4 | DL∙1 | VF∙1 | TU∙1;NA-LA01;10;4;4;NA;0;0;0
+223;L1-11;Svært kalkrik og eksponert fast strandkant-innsjøbunn;KA∙4 | DL∙1 | VF∙2 | TU∙1;NA-LA01;11;4;4;NA;0;0;0
+224;L1-12;Svært kalkrik beskyttet grunn fast innsjøbunn;KA∙4 | DL∙2 | VF∙1 | TU∙1;NA-LA01;12;4;4;NA;0;0;0
+225;L1-13;Turbid eufotisk fast innsjøbunn;KA∙1234 | DL∙12 | VF∙12 | TU∙2;NA-LA01;13;4;4;NA;0;0;0
+227;L2-1;Svært kalkfattig innsjø-sedimentbunn av silt og sand i strandkant;KA∙1 | DL∙1 | DK∙2 | TU∙1;NA-LA02;01;4;3;NA;0;0;0
+228;L2-2;Noe kalkfattig innsjø-sedimentbunn av silt og sand i strandkant;KA∙2 | DL∙1 | DK∙2 | TU∙1;NA-LA02;02;4;3;NA;0;0;0
+229;L2-3;Svært kalkfattig innsjø-sedimentbunn av silt og sand i karplantebeltet;KA∙1 | DL∙2 | DK∙2 | TU∙1;NA-LA02;03;4;3;NA;0;0;0
+230;L2-4;Svært kalkfattig innsjø-sedimentbunn av silt og sand i mosebeltet;KA∙1 | DL∙3 | DK∙2 | TU∙1;NA-LA02;04;4;3;NA;0;0;0
+231;L2-5;Noe kalkfattig innsjø-sedimentbunn av silt og sand i karplantebeltet;KA∙2 | DL∙2 | DK∙2 | TU∙1;NA-LA02;05;4;3;NA;0;0;0
+232;L2-6;Noe kalkfattig innsjø-sedimentbunn av silt og sand i mosebeltet;KA∙2 | DL∙3 | DK∙2 | TU∙1;NA-LA02;06;4;3;NA;0;0;0
+233;L2-7;Svært kalkfattig innsjø-sedimentbunn av grus og stein i strandkant;KA∙1 | DL∙1 | DK∙3 | TU∙1;NA-LA02;07;3;4;NA;0;0;0
+234;L2-8;Noe kalkfattig innsjø-sedimentbunn av grus og stein i strandkant;KA∙2 | DL∙1 | DK∙3 | TU∙1;NA-LA02;08;3;4;NA;0;0;0
+235;L2-9;Kalkfattig innsjø-sedimentbunn av blokker i strandkant;KA∙12 | DL∙1 | DK∙4 | TU∙1;NA-LA02;09;4;4;NA;0;0;0
+236;L2-10;Svært kalkfattig innsjø-sedimentbunn av grus og stein i karplantebeltet;KA∙1 | DL∙2 | DK∙3 | TU∙1;NA-LA02;10;3;4;NA;0;0;0
+237;L2-11;Svært kalkfattig innsjø-sedimentbunn av grus og stein i mosebeltet;KA∙1 | DL∙3 | DK∙3 | TU∙1;NA-LA02;11;3;4;NA;0;0;0
+238;L2-12;Noe kalkfattig innsjø-sedimentbunn av grus og stein i karplantebeltet;KA∙2 | DL∙2 | DK∙3 | TU∙1;NA-LA02;12;3;4;NA;0;0;0
+239;L2-13;Noe kalkfattig innsjø-sedimentbunn av grus og stein i mosebeltet;KA∙2 | DL∙3 | DK∙3 | TU∙1;NA-LA02;13;3;4;NA;0;0;0
+240;L2-14;Kalkfattig innsjø-sedimentbunn av blokker i karplantebeltet;KA∙12 | DL∙2 | DK∙4 | TU∙1;NA-LA02;14;4;4;NA;0;0;0
+241;L2-15;Moderat kalkrik innsjø-sedimentbunn av silt og sand i strandkant;KA∙3 | DL∙1 | DK∙2 | TU∙1;NA-LA02;15;4;3;NA;0;0;0
+242;L2-16;Svært kalkrik innsjø-sedimentbunn av silt og sand i strandkant;KA∙4 | DL∙1 | DK∙2 | TU∙1;NA-LA02;16;4;3;NA;0;0;0
+243;L2-17;Kalkrik innsjø-sedimentbunn av leire i strandkant;KA∙34 | DL∙1 | DK∙1 | TU∙1;NA-LA02;17;4;4;NA;0;0;0
+244;L2-18;Moderat kalkrik innsjø-sedimentbunn av silt og sand i karplantebeltet;KA∙3 | DL∙2 | DK∙2 | TU∙1;NA-LA02;18;4;3;NA;0;0;0
+245;L2-19;Moderat kalkrik innsjø-sedimentbunn av silt og sand i mosebeltet;KA∙3 | DL∙3 | DK∙2 | TU∙1;NA-LA02;19;4;3;NA;0;0;0
+246;L2-20;Svært kalkrik innsjø-sedimentbunn av silt og sand i karplantebeltet;KA∙4 | DL∙2 | DK∙2 | TU∙1;NA-LA02;20;4;3;NA;0;0;0
+247;L2-21;Svært kalkrik innsjø-sedimentbunn av silt og sand i mosebeltet;KA∙4 | DL∙3 | DK∙2 | TU∙1;NA-LA02;21;4;3;NA;0;0;0
+248;L2-22;Kalkrik innsjø-sedimentbunn av leire i karplantebeltet;KA∙34 | DL∙2 | DK∙1 | TU∙1;NA-LA02;22;4;4;NA;0;0;0
+249;L2-23;Moderat kalkrik innsjø-sedimentbunn av grus og stein i strandkant;KA∙3 | DL∙1 | DK∙3 | TU∙1;NA-LA02;23;3;4;NA;0;0;0
+250;L2-24;Svært kalkrik innsjø-sedimentbunn av grus og stein i strandkant;KA∙4 | DL∙1 | DK∙3 | TU∙1;NA-LA02;24;3;4;NA;0;0;0
+251;L2-25;Kalkrik innsjø-sedimentbunn av blokker i strandkant;KA∙34 | DL∙1 | DK∙4 | TU∙1;NA-LA02;25;4;4;NA;0;0;0
+252;L2-26;Moderat kalkrik innsjø-sedimentbunn av grus og stein i karplantebeltet;KA∙3 | DL∙2 | DK∙3 | TU∙1;NA-LA02;26;3;4;NA;0;0;0
+253;L2-27;Moderat kalkrik innsjø-sedimentbunn av grus og stein i mosebeltet;KA∙3 | DL∙3 | DK∙3 | TU∙1;NA-LA02;27;3;4;NA;0;0;0
+254;L2-28;Svært kalkrik innsjø-sedimentbunn av grus og stein i karplantebeltet;KA∙4 | DL∙2 | DK∙3 | TU∙1;NA-LA02;28;3;4;NA;0;0;0
+255;L2-29;Svært kalkrik innsjø-sedimentbunn av grus og stein i mosebeltet;KA∙4 | DL∙3 | DK∙3 | TU∙1;NA-LA02;29;3;4;NA;0;0;0
+256;L2-30;Kalkrik innsjø-sedimentbunn av blokker i karplantebeltet;KA∙34 | DL∙2 | DK∙4 | TU∙1;NA-LA02;30;4;4;NA;0;0;0
+257;L2-31;Turbid eufotisk innsjø-sedimentbunn;KA∙1234 | DL∙12 | DK∙12 | TU∙2;NA-LA02;31;4;4;NA;0;0;0
+259;L3-1;Kalkfattig dyp innsjøbunn;KA∙1;NA-LA03;01;4;4;NA;0;0;0
+260;L3-2;Moderat kalkrik dyp innsjøbunn;KA∙2;NA-LA03;02;4;4;NA;0;0;0
+261;L3-3;Svært kalkrik dyp innsjøbunn;KA∙3;NA-LA03;03;4;4;NA;0;0;0
+263;L4-1;Kalkfattig helofyttsump;KA∙1;NA-LB01;01;4;4;NA;0;0;0
+264;L4-2;Moderat kalkrik helofyttsump;KA∙2;NA-LB01;02;4;4;NA;0;0;0
+265;L4-3;Svært kalkrik helofyttsump;KA∙3;NA-LB01;03;4;4;NA;0;0;0
+267;L5-1;Kalkfattig undervannseng i innsjø;VT∙1 | KA∙1;NA-LB02;01;4;4;NA;0;0;0
+268;L5-2;Moderat kalkrik undervannseng i innsjø;VT∙1 | KA∙2;NA-LB02;02;4;4;NA;0;0;0
+269;L5-3;Svært kalkrik undervannseng i innsjø;VT∙1 | KA∙3;NA-LB02;03;4;4;NA;0;0;0
+270;L5-4;Kalkfattig undervannseng i elv;VT∙2 | KA∙1;NA-OA01;01;4;4;NA;1;0;0
+271;L5-5;Moderat kalkrik undervannseng i elv;VT∙2 | KA∙2;NA-OA01;02;4;4;NA;1;0;0
+273;L6-1;Svært kalkfattig flarkgjøl-bunn på fast torv ;VT∙1 | KA∙1;NA-LC01;01;4;4;NA;0;0;0
+274;L6-2;Noe kalkfattig flarkgjøl-bunn på fast torv ;VT∙1 | KA∙2;NA-LC01;02;4;4;NA;0;0;0
+275;L6-3;Moderat kalkrik flarkgjøl-bunn på fast torv ;VT∙1 | KA∙3;NA-LC01;03;4;4;NA;0;0;0
+276;L6-4;Svært kalkrik flarkgjøl-bunn på fast torv ;VT∙1 | KA∙4;NA-LC01;04;4;4;NA;0;0;0
+277;L6-5;Høljegjøl-bunn på fast torv ;VT∙2;NA-LC01;05;4;4;NA;0;0;0
+279;L7-1;Svært kalkfattig innsjøbunn av dy og gytje;KA∙1;NA-LC02;01;4;4;NA;0;0;0
+280;L7-2;Noe kalkfattig innsjøbunn av dy og gytje;KA∙2;NA-LC02;02;4;4;NA;0;0;0
+281;L7-3;Moderat kalkrik innsjøbunn av dy og gytje;KA∙3;NA-LC02;03;4;4;NA;0;0;0
+282;L7-4;Svært kalkrik innsjøbunn av dy og gytje;KA∙4;NA-LC02;04;4;4;NA;0;0;0
+284;L8-1;Kalkfattig innsjøbunn av grovt organisk materiale;KA∙1;NA-LC03;01;4;4;NA;0;0;0
+285;L8-2;Kalkrik innsjøbunn av grovt organisk materiale;KA∙2;NA-LC03;02;4;4;NA;0;0;0
+287;L9-1;Innsjøbunn med periodisk oksygenmangel;FK∙A | OM∙1;NA-LC04;01;4;4;NA;0;0;0
+288;L9-2;Anoksisk innsjøbunn med gammelt havvann;FK∙B | OM∙2;NA-LC04;02;4;4;NA;0;0;0
+289;L9-3;Anoksisk innsjøbunn betinget av saltholdig kildevann;FK∙C | OM∙2;NA-LC04;03;4;4;NA;0;0;0
+290;L9-4;Anoksisk innsjøbunn betinget av jernholdig vann;FK∙D | OM∙2;NA-LC04;04;4;4;NA;0;0;0
+291;L9-5;Anoksisk innsjøbunn betinget av kalkrikt vann;FK∙E | OM∙2;NA-LC04;05;4;4;NA;0;0;0
+292;L9-6;Anoksisk innsjøbunn betinget av humusrikt vann;FK∙F | OM∙2;NA-LC04;06;4;4;NA;0;0;0
+294;L10-1;Arktisk permafrost-innsjøbunn;0;NA;×;NA;NA;NA;0;0;1
+296;L11-1;Ny sedimentbunn i innsjø;ST∙A;NA-LG01;01;4;4;NA;0;0;0
+297;L11-2;Ny fastbunn i innsjø;ST∙B;NA-LG01;02;4;4;NA;0;0;0
+299;L12-1;Semi-naturlig eutrof innsjøbunn;0;NA-LK01;01;4;4;NA;0;0;0
+301;L13-1;Kalkfattig semi-naturlig vannstrand-eng;KA∙1;NA;×;NA;NA;NA;0;0;1
+302;L13-2;Kalkrik semi-naturlig vannstrand-eng;KA∙2;NA;×;NA;NA;NA;0;0;1
+304;L14-1;Sterkt endret ny fast innsjøbunn;KA∙12 | MY∙A;NA-LM01;01;4;4;NA;0;0;0
+305;L14-2;Kalkfattig (ny) syntetisk innsjøbunn;KA∙1 | MY∙B;NA-LM01;02;4;4;NA;0;0;0
+306;L14-3;Kalkrik (ny) syntetisk innsjøbunn;KA∙2 | MY∙B;NA-LM01;03;4;4;NA;0;0;0
+307;L14-4;Kalkfattig ny innsjø-sedimentbunn;KA∙1 | MY∙C;NA-LM01;04;4;4;NA;0;0;0
+308;L14-5;Kalkrik ny innsjø-sedimentbunn ;KA∙2 | MY∙C;NA-LM01;05;4;4;NA;0;0;0
+310;L15-1;Kalkfattig ny innsjø-sedimentbunn med opphav i elvebunn;KA∙1 | ST∙A;NA-LM02;01;4;4;NA;0;0;0
+311;L15-2;Kalkfattig ny fast innsjøbunn med opphav i elvebunn;KA∙1 | ST∙B;NA-LM02;02;4;4;NA;0;0;0
+312;L15-3;Kalkrik ny innsjø-sedimentbunn med opphav i elvebunn;KA∙2 | ST∙A;NA-LM02;03;4;4;NA;0;0;0
+313;L15-4;Kalkrik ny fast innsjøbunn med opphav i elvebunn;KA∙2 | ST∙B;NA-LM02;04;4;4;NA;0;0;0
+315;L16-1;Kalkfattig kronisk fysisk forstyrret innsjø-sedimentbunn;KA∙1 | ST∙A | TV∙1;NA-LM04;01;4;4;NA;0;0;0
+316;L16-2;Kalkfattig kronisk fysisk forstyrret fast innsjøbunn;KA∙1 | ST∙B | TV∙1;NA-LM04;02;4;4;NA;0;0;0
+317;L16-3;Kalkrik kronisk fysisk forstyrret innsjø-sedimentbunn;KA∙2 | ST∙A | TV∙1;NA-LM04;03;4;4;NA;0;0;0
+318;L16-4;Kalkrik kronisk fysisk forstyrret fast innsjøbunn;KA∙2 | ST∙B | TV∙1;NA-LM04;04;4;4;NA;0;0;0
+319;L16-5;Reguleringssone i innsjø;KA∙12 | ST∙AB | TV∙2;NA-LM04;05;4;4;NA;0;0;0
+321;L17-1;Kronisk kjemisk påvirket innsjø-sedimentbunn ;MK∙A | ST∙A;NA-LM05;01;4;4;NA;0;0;0
+322;L17-2;Kronisk kjemisk påvirket fast innsjøbunn ;MK∙A | ST∙B;NA-LM05;02;4;4;NA;0;0;0
+323;L17-3;Kronisk saltpåvirket innsjø-sedimentbunn ;MK∙B | ST∙A;NA-LM05;03;4;4;NA;0;0;0
+324;L17-4;Kronisk eutrofiert innsjø-sedimentbunn ;MK∙C | ST∙A;NA-LM05;04;4;4;NA;0;0;0
+325;L17-5;Kronisk eutrofiert fast innsjøbunn ;MK∙C | ST∙B;NA-LM05;05;4;4;NA;0;0;0
+326;L17-6;Kronisk forsuret innsjø-sedimentbunn ;MK∙D | ST∙A;NA-LM05;06;4;4;NA;0;0;0
+327;L17-7;Kronisk forsuret fast innsjøbunn ;MK∙D | ST∙B;NA-LM05;07;4;4;NA;0;0;0
+329;O1-1;Svært kalkfattig fastbunn i klar og stilleflytende elv ;KA∙1 | VF∙1 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;01;4;4;NA;0;0;0
+330;O1-2;Svært kalkfattig fastbunn i klar elv med brutt overflate;KA∙1 | VF∙2 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;02;4;4;NA;0;0;0
+331;O1-3;Svært kalkfattig fastbunn i klar elv med moderat stryk;KA∙1 | VF∙3 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;03;4;4;NA;0;0;0
+332;O1-4;Svært kalkfattig fastbunn i klar elv med hvitstryk;KA∙1 | VF∙4 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;04;4;4;NA;0;0;0
+333;O1-5;Noe kalkfattig fastbunn i klar og stilleflytende elv;KA∙2 | VF∙1 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;05;4;4;NA;0;0;0
+334;O1-6;Noe kalkfattig fastbunn i klar elv med brutt overflate;KA∙2 | VF∙2 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;06;4;4;NA;0;0;0
+335;O1-7;Noe kalkfattig fastbunn i klar elv med moderat stryk;KA∙2 | VF∙3 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;07;4;4;NA;0;0;0
+336;O1-8;Noe kalkfattig fastbunn i klar elv med hvitstryk;KA∙2 | VF∙4 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;08;4;4;NA;0;0;0
+337;O1-9;Moderat kalkrik fastbunn i klar og stilleflytende elv;KA∙3 | VF∙1 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;09;4;4;NA;0;0;0
+338;O1-10;Moderat kalkrik fastbunn i klar elv med brutt overflate;KA∙3 | VF∙2 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;10;4;4;NA;0;0;0
+339;O1-11;Moderat kalkrik fastbunn i klar elv med moderat stryk;KA∙3 | VF∙3 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;11;4;4;NA;0;0;0
+340;O1-12;Moderat kalkrik fastbunn i klar elv med hvitstryk;KA∙3 | VF∙4 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;12;4;4;NA;0;0;0
+341;O1-13;Svært kalkrik fastbunn i klar og stilleflytende elv;KA∙4 | VF∙1 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;13,17;4;4;21;0;0;0
+342;O1-14;Svært kalkrik fastbunn i klar elv med brutt overflate;KA∙4 | VF∙2 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;14,18;4;4;21;0;0;0
+343;O1-15;Svært kalkrik fastbunn i klar elv med moderat stryk;KA∙4 | VF∙3 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;15,19;4;4;21;0;0;0
+344;O1-16;Svært kalkrik fastbunn i klar elv med hvitstryk;KA∙4 | VF∙4 | HU∙1 | GS∙1 | BU∙1 | TU∙1;NA-OA01;16,20;4;4;21;0;0;0
+345;O1-17;Kalkfattig fastbunn i humøs og stilleflytende elv;KA∙12 | VF∙1 | HU∙2 | GS∙1 | BU∙1 | TU∙1;NA-OA01;21;4;4;NA;0;0;0
+346;O1-18;Kalkfattig fastbunn i humøs elv med brutt overflate;KA∙12 | VF∙2 | HU∙2 | GS∙1 | BU∙1 | TU∙1;NA-OA01;22;4;4;NA;0;0;0
+347;O1-19;Kalkfattig fastbunn i humøs elv med moderat stryk;KA∙12 | VF∙3 | HU∙2 | GS∙1 | BU∙1 | TU∙1;NA-OA01;23;4;4;NA;0;0;0
+348;O1-20;Kalkfattig fastbunn i humøs elv med hvitstryk;KA∙12 | VF∙4 | HU∙2 | GS∙1 | BU∙1 | TU∙1;NA-OA01;24;4;4;NA;0;0;0
+349;O1-21;Kalkrik fastbunn i humøs og stilleflytende elv;KA∙34 | VF∙1 | HU∙2 | GS∙1 | BU∙1 | TU∙1;NA-OA01;25;4;4;NA;0;0;0
+350;O1-22;Kalkrik fastbunn i humøs elv med brutt overflate;KA∙34 | VF∙2 | HU∙2 | GS∙1 | BU∙1 | TU∙1;NA-OA01;26;4;4;NA;0;0;0
+351;O1-23;Kalkrik fastbunn i humøs elv med moderat stryk;KA∙34 | VF∙3 | HU∙2 | GS∙1 | BU∙1 | TU∙1;NA-OA01;27;4;4;NA;0;0;0
+352;O1-24;Kalkrik fastbunn i humøs elv med hvitstryk;KA∙34 | VF∙4 | HU∙2 | GS∙1 | BU∙1 | TU∙1;NA-OA01;28;4;4;NA;0;0;0
+353;O1-25;Kalkfattig og svært ujevn fastbunn i klar elv med stryk;KA∙12 | VF∙34 | HU∙1 | GS∙1 | BU∙2 | TU∙1;NA-OA01;29;4;4;NA;0;0;0
+354;O1-26;Kalkrik og svært ujevn fastbunn i klar elv med stryk;KA∙34 | VF∙34 | HU∙1 | GS∙1 | BU∙2 | TU∙1;NA-OA01;30;4;4;NA;0;0;0
+355;O1-27;Turbid fast elvebunn;KA∙1234 | VF∙1234 | HU∙1 | GS∙1 | BU∙1 | TU∙2;NA-OA01;31;4;4;NA;0;0;0
+356;O1-28;Fast elvebunn i grotte;KA∙1234 | VF∙1234 | HU∙1 | GS∙2 | BU∙1 | TU∙1;NA-OA01;32;4;4;NA;0;0;0
+358;O2-1;Kalkfattig siltbunn i klar elv;KA∙12 | DK∙2 | NT∙1 | HU∙1 | TU∙1;NA-OA02;01;4;4;NA;0;0;0
+359;O2-2;Kalkfattig sandbunn i klar elv;KA∙12 | DK∙3 | NT∙1 | HU∙1 | TU∙1;NA-OA02;02;4;2;NA;0;0;0
+360;O2-3;Kalkfattig fin grusbunn i klar elv;KA∙12 | DK∙4 | NT∙1 | HU∙1 | TU∙1;NA-OA02;02,03;4;2;NA;0;0;0
+361;O2-4;Kalkfattig grov grusbunn i klar elv;KA∙12 | DK∙5 | NT∙1 | HU∙1 | TU∙1;NA-OA02;03;4;1;NA;0;0;0
+362;O2-5;Svært kalkfattig steinbunn i klar elv;KA∙1 | DK∙6 | NT∙1 | HU∙1 | TU∙1;NA-OA02;04;4;4;NA;0;0;0
+363;O2-6;Noe kalkfattig steinbunn i klar elv;KA∙2 | DK∙6 | NT∙1 | HU∙1 | TU∙1;NA-OA02;05;4;4;NA;0;0;0
+364;O2-7;Kalkrik siltbunn i klar elv;KA∙34 | DK∙2 | NT∙1 | HU∙1 | TU∙1;NA-OA02;06;4;4;NA;0;0;0
+365;O2-8;Kalkrik sandbunn i klar elv;KA∙34 | DK∙3 | NT∙1 | HU∙1 | TU∙1;NA-OA02;07;4;2;NA;0;0;0
+366;O2-9;Kalkrik fin grusbunn i klar elv;KA∙34 | DK∙4 | NT∙1 | HU∙1 | TU∙1;NA-OA02;07,08;4;2;NA;0;0;0
+367;O2-10;Kalkrik grov grusbunn i klar elv;KA∙34 | DK∙5 | NT∙1 | HU∙1 | TU∙1;NA-OA02;08;4;1;NA;0;0;0
+368;O2-11;Moderat kalkrik steinbunn i klar elv;KA∙3 | DK∙6 | NT∙1 | HU∙1 | TU∙1;NA-OA02;09;4;4;NA;0;0;0
+369;O2-12;Svært kalkrik steinbunn i klar elv;KA∙4 | DK∙6 | NT∙1 | HU∙1 | TU∙1;NA-OA02;10;4;4;NA;0;0;0
+370;O2-13;Siltbunn i humøs elv;KA∙1234 | DK∙2 | NT∙1 | HU∙2 | TU∙1;NA-OA02;11;4;4;NA;0;0;0
+371;O2-14;Sandbunn i humøs elv;KA∙1234 | DK∙3 | NT∙1 | HU∙2 | TU∙1;NA-OA02;12;4;2;NA;0;0;0
+372;O2-15;Fin grusbunn i humøs elv;KA∙1234 | DK∙4 | NT∙1 | HU∙2 | TU∙1;NA-OA02;12,13;4;2;NA;0;0;0
+373;O2-16;Grov grusbunn i humøs elv;KA∙1234 | DK∙5 | NT∙1 | HU∙2 | TU∙1;NA-OA02;13;4;1;NA;0;0;0
+374;O2-17;Kalkfattig steinbunn i humøs elv;KA∙12 | DK∙6 | NT∙1 | HU∙2 | TU∙1;NA-OA02;14;4;4;NA;0;0;0
+375;O2-18;Kalkrik steinbunn i humøs elv;KA∙34 | DK∙6 | NT∙1 | HU∙2 | TU∙1;NA-OA02;15,16;4;4;NA;0;0;0
+376;O2-19;Utstrømspåvirket kalkfattig elvebunn;KA∙12 | DK∙3456 | NT∙2 | HU∙12 | TU∙1;NA-OA02;17;4;4;NA;0;0;0
+377;O2-20;Utstrømspåvirket kalkrik elvebunn;KA∙34 | DK∙3456 | NT∙2 | HU∙12 | TU∙1;NA-OA02;18;4;4;NA;0;0;0
+378;O2-21;Turbid elvesedimentbunn;KA∙1234 | DK∙123456 | NT∙1 | HU∙12 | TU∙2;NA-OA02;20;4;4;NA;0;0;0
+380;O3-1;Sand- og grov grusbunn i kalkfattig svak kilde;KA∙1 | DK∙2 | KI∙1;NA-OC01;01;4;4;NA;0;0;0
+381;O3-2;Steinbunn i kalkfattig svak kilde;KA∙1 | DK∙3 | KI∙1;NA-OC01;02;4;4;NA;0;0;0
+382;O3-3;Storblokket bunn i kalkfattig svak kilde;KA∙1 | DK∙4 | KI∙1;NA-OC01;03;4;4;NA;0;0;0
+383;O3-4;Sand- og grov grusbunn i kalkfattig sterk kilde;KA∙1 | DK∙2 | KI∙2;NA-OC01;04;4;4;NA;0;0;0
+384;O3-5;Steinbunn i kalkfattig sterk kilde;KA∙1 | DK∙3 | KI∙2;NA-OC01;05;4;4;NA;0;0;0
+385;O3-6;Storblokket bunn i kalkfattig sterk kilde ;KA∙1 | DK∙4 | KI∙2;NA-OC01;06;4;4;NA;0;0;0
+386;O3-7;Silt- og leirbunn i kalkrik svak kilde;KA∙2 | DK∙1 | KI∙1;NA-OC01;07;4;4;NA;0;0;0
+387;O3-8;Sand- og grov grusbunn i kalkrik svak kilde;KA∙2 | DK∙2 | KI∙1;NA-OC01;08;4;4;NA;0;0;0
+388;O3-9;Stein- og blokkbunn i kalkrik svak kilde;KA∙2 | DK∙3 | KI∙1;NA-OC01;09;4;4;NA;0;0;0
+389;O3-10;Storblokket bunn i kalkrik svak kilde;KA∙2 | DK∙4 | KI∙1;NA-OC01;10;4;4;NA;0;0;0
+390;O3-11;Silt- og leirbunn i kalkrik sterk kilde;KA∙2 | DK∙1 | KI∙2;NA-OC01;11;4;4;NA;0;0;0
+391;O3-12;Sand- og grov grusbunn i kalkrik sterk kilde;KA∙2 | DK∙2 | KI∙2;NA-OC01;12;4;4;NA;0;0;0
+392;O3-13;Steinbunn i kalkrik sterk kilde;KA∙2 | DK∙3 | KI∙2;NA-OC01;13;4;4;NA;0;0;0
+393;O3-14;Storblokket bunn i kalkrik sterk kilde;KA∙2 | DK∙4 | KI∙2;NA-OC01;14;4;4;NA;0;0;0
+395;O4-1;Silt- og leirbunn i litt varm kilde;JV∙1 | DK∙1 | FK∙1;NA-OC02;01;4;4;NA;0;0;0
+396;O4-2;Sand- og steinbunn i litt varm kilde;JV∙1 | DK∙2 | FK∙1;NA-OC02;02;4;4;NA;0;0;0
+397;O4-3;Stein- og blokkbunn i litt varm kilde;JV∙2 | DK∙1 | FK∙1;NA-OC02;03;4;4;NA;0;0;0
+398;O4-4;Storblokket bunn i litt varm kilde;JV∙2 | DK∙2 | FK∙1;NA-OC02;04;4;4;NA;0;0;0
+399;O4-5;Silt- og leirbunn i varm kilde;JV∙1 | DK∙3 | FK∙1;NA-OC02;05;4;4;NA;0;0;0
+400;O4-6;Sand- og steinbunn i varm kilde;JV∙1 | DK∙4 | FK∙1;NA-OC02;06;4;4;NA;0;0;0
+401;O4-7;Stein- og blokkbunn i varm kilde;JV∙2 | DK∙3 | FK∙1;NA-OC02;07;4;4;NA;0;0;0
+402;O4-8;Storblokket bunn i varm kilde;JV∙2 | DK∙4 | FK∙1;NA-OC02;08;4;4;NA;0;0;0
+403;O4-9;Svovelpåvirket bunn i litt varm kilde;DK∙1234 | JV∙1 | FK∙2;NA-OC02;09;4;4;NA;0;0;0
+405;O5-1;Ny sedimentbunn i elv;0;NA-OG01;01;4;4;NA;0;0;0
+407;O6-1;Kalkfattig kronisk fysisk forstyrret sedimentbunn i elv;KA∙1 | ST∙A | TU∙1;NA-OM01;01;4;4;NA;0;0;0
+408;O6-2;Kalkfattig kronisk fysisk forstyrret fastbunn i elv;KA∙1 | ST∙B | TU∙1;NA-OM01;02;4;4;NA;0;0;0
+409;O6-3;Kalkrik kronisk fysisk forstyrret sedimentbunn i elv;KA∙2 | ST∙A | TU∙1;NA-OM01;03;4;4;NA;0;0;0
+410;O6-4;Kalkrik kronisk fysisk forstyrret fastbunn i elv;KA∙2 | ST∙B | TU∙1;NA-OM01;04;4;4;NA;0;0;0
+411;O6-5;Turbid minstevannførings-strekning i elv ;KA∙12 | ST∙AB | TU∙2;NA-OM01;05;4;4;NA;0;0;0
+413;O7-1;Kronisk kjemisk påvirket sedimentbunn i elv;MK∙A | ST∙A;NA-OM02;01;4;4;NA;0;0;0
+414;O7-2;Kronisk kjemisk påvirket fastbunn i elv;MK∙A | ST∙B;NA-OM02;02;4;4;NA;0;0;0
+415;O7-3;Kronisk forsuret sedimentbunn i elv;MK∙B | ST∙A;NA-OM02;03;4;4;NA;0;0;0
+416;O7-4;Kronisk forsuret fastbunn i elv;MK∙B | ST∙B;NA-OM02;04;4;4;NA;0;0;0
+418;T1-1;svært lite uttørkingseksponert svært og temmelig kalkfattig bergvegg [svært og temmelig kalkfattig svært lite tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙1 | UE∙1;NA-TA01;01;4;4;NA;0;0;0
+419;T1-2;temmelig lite uttørkingseksponert svært og temmelig kalkfattig bergvegg [svært og temmelig kalkfattig temmelig lite tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙1 | UE∙2;NA-TA01;02;4;4;NA;0;0;0
+420;T1-3;temmelig uttørkingseksponert svært og temmelig kalkfattig bergvegg [svært og temmelig kalkfattig temmelig tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙1 | UE∙3;NA-TA01;03;4;4;NA;0;0;0
+421;T1-4;svært uttørkingseksponert svært og temmelig kalkfattig bergvegg [svært og temmelig kalkfattig svært tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙1 | UE∙4;NA-TA01;04;4;4;NA;0;0;0
+422;T1-5;svært lite uttørkingseksponert litt kalkfattig og svakt intermediær bergvegg [litt kalkfattig og svakt intermediær svært lite tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙2 | UE∙1;NA-TA01;05;4;4;NA;0;0;0
+423;T1-6;temmelig lite uttørkingseksponert litt kalkfattig og svakt intermediær bergvegg [litt kalkfattig og svakt intermediær temmelig lite tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙2 | UE∙2;NA-TA01;06;4;4;NA;0;0;0
+424;T1-7;temmelig uttørkingseksponert litt kalkfattig og svakt intermediær bergvegg [litt kalkfattig og svakt intermediær temmelig tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙2 | UE∙3;NA-TA01;07;4;4;NA;0;0;0
+425;T1-8;svært uttørkingseksponert litt kalkfattig og svakt intermediær bergvegg [litt kalkfattig og svakt intermediær svært tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙2 | UE∙4;NA-TA01;08;4;4;NA;0;0;0
+426;T1-9;svært lite uttørkingseksponert sterkt intermediær og litt kalkrik bergvegg [sterkt intermediær og litt kalkrik svært lite tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙3 | UE∙1;NA-TA01;09;4;4;NA;0;0;0
+427;T1-10;temmelig lite uttørkingseksponert sterkt intermediær og litt kalkrik bergvegg [sterkt intermediær og litt kalkrik temmelig tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙3 | UE∙2;NA-TA01;10;4;4;NA;0;0;0
+428;T1-11;temmelig uttørkingseksponert sterkt intermediær og litt kalkrikt bergvegg [sterkt intermediær og litt kalkrik temmelig tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙3 | UE∙3;NA-TA01;11;4;4;NA;0;0;0
+429;T1-12;svært uttørkingseksponert sterkt intermediær og litt kalkrik bergvegg [sterkt intermediær og litt kalkrik svært tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙3 | UE∙4;NA-TA01;12;4;4;NA;0;0;0
+430;T1-13;svært lite uttørkingseksponert temmelig og svært kalkrik bergvegg [temmelig og svært kalkrik svært lite tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙4 | UE∙1;NA-TA01;13;4;4;NA;0;0;0
+431;T1-14;temmelig lite uttørkingseksponert temmelig og svært kalkrik bergvegg [temmelig og svært kalkrik temmelig lite tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙4 | UE∙2;NA-TA01;14;4;4;NA;0;0;0
+432;T1-15;temmelig uttørkingseksponert temmelig og svært kalkrik bergvegg [temmelig og svært kalkrik temmelig tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙4 | UE∙3;NA-TA01;15;4;4;NA;0;0;0
+433;T1-16;svært uttørkingseksponert temmelig og svært kalkrik bergvegg [temmelig og svært kalkrik svært tørkeutsatt bergvegg];OR∙1 | HF∙2 | KA∙4 | UE∙4;NA-TA01;16;4;4;NA;0;0;0
+434;T1-17;svært lite uttørkingseksponert ekstremt kalkrik bergvegg [svært lite tørkeutsatt kalkbergvegg];OR∙1 | HF∙2 | KA∙5 | UE∙1;NA-TA01;17;4;4;NA;0;0;0
+435;T1-18;temmelig lite uttørkingseksponert ekstremt kalkrik bergvegg [temmelig lite tørkeutsatt kalkbergvegg];OR∙1 | HF∙2 | KA∙5 | UE∙2;NA-TA01;18;4;4;NA;0;0;0
+436;T1-19;temmelig uttørkingseksponert ekstremt kalkrik bergvegg [temmelig tørkeutsatt kalkbergvegg];OR∙1 | HF∙2 | KA∙5 | UE∙3;NA-TA01;19;4;4;NA;0;0;0
+437;T1-20;svært uttørkingseksponert ekstremt kalkrik bergvegg [svært tørkeutsatt kalkbergvegg];OR∙1 | HF∙2 | KA∙5 | UE∙4;NA-TA01;20;4;4;NA;0;0;0
+438;T1-21;lite uttørkingseksponert svært og temmelig kalkfattig iblant overrislet berg [svært og temmelig kalkfattig lite tørkeutsatt berg med periodisk overrisling];OR∙2 | HF∙1,2 | KA∙1 | UE∙1,2;NA-TA01;21;4;4;NA;0;0;0
+439;T1-22;temmelig uttørkingseksponert svært og temmelig kalkfattig iblant overrislet berg [svært og temmelig kalkfattig temmelig tørkeutsatt berg med periodisk overrisling];OR∙2 | HF∙1,2 | KA∙1 | UE∙3;NA-TA01;22;4;4;NA;0;0;0
+440;T1-23;svært uttørkingseksponert svært og temmelig kalkfattig iblant overrislet berg [svært og temmelig kalkfattig svært tørkeutsatt berg med periodisk overrisling];OR∙2 | HF∙1,2 | KA∙1 | UE∙4;NA-TA01;23;4;4;NA;0;0;0
+441;T1-24;lite uttørkingseksponert litt kalkfattig og svakt intermediært iblant overrislet berg [litt kalkfattig og svakt intermediært lite tørkeutsatt med periodisk overrisling];OR∙2 | HF∙1,2 | KA∙2 | UE∙1,2;NA-TA01;24;4;4;NA;0;0;0
+442;T1-25;temmelig uttørkingseksponert litt kalkfattig og svakt intermediært iblant overrislet berg [litt kalkfattig og svakt intermediært temmelig tørkeutsatt berg med periodisk overrisling];OR∙2 | HF∙1,2 | KA∙2 | UE∙3;NA-TA01;25;4;4;NA;0;0;0
+443;T1-26;svært uttørkingseksponert litt kalkfattig og svakt intermediært iblant overrislet berg [litt kalkfattig og svakt intermediært svært tørkeutsatt med periodisk overrisling];OR∙2 | HF∙1,2 | KA∙2 | UE∙4;NA-TA01;26;4;4;NA;0;0;0
+444;T1-27;lite uttørkingseksponert sterkt intermediært og litt kalkrikt iblant overrislet berg [sterkt intermediært og litt kalkrikt lite tørkeutsatt berg med periodisk overrisling];OR∙2 | HF∙1,2 | KA∙3 | UE∙1,2;NA-TA01;27;4;4;NA;0;0;0
+445;T1-28;temmelig uttørkingseksponert sterkt intermediært og litt kalkrikt iblant overrislet berg [sterkt intermediært og litt kalkrikt temmelig tørkeutsatt berg med periodisk overrisling];OR∙2 | HF∙1,2 | KA∙3 | UE∙3;NA-TA01;28;4;4;NA;0;0;0
+446;T1-29;svært uttørkingseksponert sterkt intermediært og litt kalkrikt iblant overrislet berg [sterkt intermediært og litt kalkrikt svært tørkeutsatt berg med periodisk overrisling];OR∙2 | HF∙1,2 | KA∙3 | UE∙4;NA-TA01;29;4;4;NA;0;0;0
+447;T1-30;lite uttørkingseksponert temmelig til ekstremt kalkrikt iblant overrislet berg [lite tørkeutsatt temmelig til ekstremt kalkrikt iblant overrislet berg];OR∙2 | HF∙1,2 | KA∙4,5 | UE∙1,2;NA-TA01;30;4;4;NA;0;0;0
+448;T1-31;temmelig uttørkingseksponert temmelig til ekstremt kalkrikt iblant overrislet berg [temmelig tørkeutsatt temmelig til ekstremt kalkrikt berg med periodisk overrisling];OR∙2 | HF∙1,2 | KA∙4,5 | UE∙3;NA-TA01;31;4;4;NA;0;0;0
+449;T1-32;svært uttørkingseksponert temmelig til ekstremt kalkrikt iblant overrislet berg [svært tørkeutsatt temmelig til ekstremt kalkrikt berg med periodisk overrisling];OR∙2 | HF∙1,2 | KA∙4,5 | UE∙4;NA-TA01;32;4;4;NA;0;0;0
+450;T1-33;lite uttørkingseksponert svært og temmelig kalkfattig ofte overrislet berg [svært og temmelig kalkfattig lite tørkeutsatt overrislingsberg];OR∙3 | HF∙1,2 | KA∙1 | UE∙1,2;NA-TA01;33;4;4;NA;0;0;0
+451;T1-34;uttørkingseksponert svært og temmelig kalkfattig ofte overrislet berg [svært og temmelig kalkfattig tørkeutsatt overrislingsberg];OR∙3 | HF∙1,2 | KA∙1 | UE∙3,4;NA-TA01;34;4;4;NA;0;0;0
+452;T1-35;lite uttørkingseksponert litt kalkfattig og svakt intermediært ofte overrislet berg [litt kalkfattig og svakt intermediært lite tørkeutsatt overrislingsberg];OR∙3 | HF∙1,2 | KA∙2 | UE∙1,2;NA-TA01;35;4;4;NA;0;0;0
+453;T1-36;uttørkingseksponert litt kalkfattig og svakt intermediært ofte overrislet berg [litt kalkfattig og svakt intermediært tørkeutsatt overrislingsberg];OR∙3 | HF∙1,2 | KA∙2 | UE∙3,4;NA-TA01;36;4;4;NA;0;0;0
+454;T1-37;lite uttørkingseksponert sterkt intermediært og litt kalkrikt ofte overrislet berg [sterkt intermediært og litt kalkrikt lite tørkeutsatt overrislingsberg];OR∙3 | HF∙1,2 | KA∙3 | UE∙1,2;NA-TA01;37;4;4;NA;0;0;0
+455;T1-38;uttørkingseksponert sterkt intermediært og litt kalkrikt ofte overrislet berg [sterkt intermediært og litt kalkrikt tørkeutsatt overrislingsberg];OR∙3 | HF∙1,2 | KA∙3 | UE∙3,4;NA-TA01;38;4;4;NA;0;0;0
+456;T1-39;lite uttørkingseksponert temmelig til ekstremt kalkrikt ofte overrislet berg [lite tørkeutsatt temmelig til ekstremt kalkrikt overrislingsberg];OR∙3 | HF∙1,2 | KA∙4,5 | UE∙1,2;NA-TA01;39;4;4;NA;0;0;0
+457;T1-40;uttørkingseksponert temmelig til ekstremt kalkrikt ofte overrislet berg [tørkeutsatt temmelig til ekstremt kalkrikt overrislingsberg];OR∙3 | HF∙1,2 | KA∙4,5 | UE∙3,4;NA-TA01;40;4;4;NA;0;0;0
+458;T1-41;svært lite uttørkingseksponert svært og temmelig kalkfattig bergknaus [svært og temmelig kalkfattig svært lite tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙1 | UE∙1;NA-TA01;41;4;4;NA;0;0;0
+459;T1-42;svært og temmelig kalkfattig temmelig lite uttørkingseksponert kalkfattig bergknaus [svært og temmelig kalkfattig temmelig lite tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙1 | UE∙2;NA-TA01;42;4;4;NA;0;0;0
+460;T1-43;temmelig uttørkingseksponert svært og temmelig kalkfattig bergknaus [svært og temmelig kalkfattig temmelig tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙1 | UE∙3;NA-TA01;43;4;4;NA;0;0;0
+461;T1-44;svært uttørkingseksponert svært og temmelig kalkfattig bergknaus [svært og temmelig kalkfattig svært tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙1 | UE∙4;NA-TA01;44;4;4;NA;0;0;0
+462;T1-45;svært lite uttørkingseksponert litt kalkfattig og svakt intermediær bergknaus [litt kalkfattig og svakt intermediær svært lite tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙2 | UE∙1;NA-TA01;45;4;4;NA;0;0;0
+463;T1-46;temmelig lite uttørkingseksponert litt kalkfattig og svakt intermediær bergknaus [litt kalkfattig og svakt intermediær temmelig lite tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙2 | UE∙2;NA-TA01;46;4;4;NA;0;0;0
+464;T1-47;temmelig uttørkingseksponert litt kalkfattig og svakt intermediær bergknaus [litt kalkfattig og svakt intermediær temmelig tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙2 | UE∙3;NA-TA01;47;4;4;NA;0;0;0
+465;T1-48;svært uttørkingseksponert litt kalkfattig og svakt intermediær bergknaus [litt kalkfattig og svakt intermediær svært tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙2 | UE∙4;NA-TA01;48;4;4;NA;0;0;0
+466;T1-49;svært lite uttørkingseksponert sterkt intermediær og litt kalkrik bergknaus [sterkt intermediær og litt kalkrik svært lite tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙3 | UE∙1;NA-TA01;49;4;4;NA;0;0;0
+467;T1-50;temmelig lite uttørkingseksponert sterkt intermediær og litt kalkrik bergknaus [sterkt intermediær og litt kalkrikt temmelig lite tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙3 | UE∙2;NA-TA01;50;4;4;NA;0;0;0
+468;T1-51;temmelig uttørkingseksponert sterkt intermediær og litt kalkrik bergknaus [sterkt intermediær og litt kalkrik temmelig tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙3 | UE∙3;NA-TA01;51;4;4;NA;0;0;0
+469;T1-52;svært uttørkingseksponert sterkt intermediær og litt kalkrik bergknaus [sterkt intermediær og litt kalkrik svært tørkeutsatt bergknaus];OR∙1 | HF∙1 | KA∙3 | UE∙4;NA-TA01;52;4;4;NA;0;0;0
+470;T1-53;svært lite uttørkingseksponert temmelig og svært kalkrik bergknaus [temmelig og svært kalkrik svært lite tørkeutsatt bergknaus];OR∙1 | HF∙2 | KA∙4 | UE∙1;NA-TA01;53;4;4;NA;0;0;0
+471;T1-54;temmelig lite uttørkingseksponert temmelig og svært kalkrik bergknaus [temmelig og svært kalkrik temmelig lite tørkeutsatt bergknaus];OR∙1 | HF∙2 | KA∙4 | UE∙2;NA-TA01;54;4;4;NA;0;0;0
+472;T1-55;temmelig uttørkingseksponert temmelig og svært kalkrik bergknaus [temmelig og svært kalkrik temmelig tørkeutsatt bergknaus];OR∙1 | HF∙2 | KA∙4 | UE∙3;NA-TA01;55;4;4;NA;0;0;0
+473;T1-56;svært uttørkingseksponert temmelig og svært kalkrik bergknaus [temmelig og svært kalkrik svært tørkeutsatt bergknaus];OR∙1 | HF∙2 | KA∙4 | UE∙4;NA-TA01;56;4;4;NA;0;0;0
+474;T1-57;svært lite uttørkingseksponert ekstremt kalkrik bergknaus [svært lite tørkeutsatt kalkbergknaus];OR∙1 | HF∙2 | KA∙5 | UE∙1;NA-TA01;57;4;4;NA;0;0;0
+475;T1-58;temmelig lite uttørkingseksponert ekstremt kalkrik bergknaus [temmelig lite tørkeutsatt kalkbergknaus];OR∙1 | HF∙2 | KA∙5 | UE∙2;NA-TA01;58;4;4;NA;0;0;0
+476;T1-59;temmelig uttørkingseksponert ekstremt kalkrik bergknaus [temmelig tørkeutsatt kalkbergknaus];OR∙1 | HF∙2 | KA∙5 | UE∙3;NA-TA01;59;4;4;NA;0;0;0
+477;T1-60;svært uttørkingseksponert ekstremt kalkrik bergknaus [svært tørkeutsatt kalkbergknaus];OR∙1 | HF∙2 | KA∙5 | UE∙4;NA-TA01;60;4;4;NA;0;0;0
+478;T1-61;svært og temmelig kalkfattig flomsonebergknaus;VF∙2 | KA∙1 | HF∙1;NA-TA01;61;4;4;NA;0;0;0
+479;T1-62;svært og temmelig kalkfattig flomsonebergvegg;VF∙2 | KA∙1 | HF∙2;NA-TA01;62;4;4;NA;0;0;0
+480;T1-63;litt kalkfattig og svakt intermediær flomsonebergknaus;VF∙2 | KA∙2 | HF∙1;NA-TA01;63;4;4;NA;0;0;0
+481;T1-64;litt kalkfattig og svakt intermediær flomsonebergvegg;VF∙2 | KA∙2 | HF∙2;NA-TA01;64;4;4;NA;0;0;0
+482;T1-65;sterkt intermediær og litt kalkrik flomsonebergknaus;VF∙2 | KA∙3 | HF∙1;NA-TA01;65;4;4;NA;0;0;0
+483;T1-66;sterkt intermediær og litt kalkrik flomsonebergvegg;VF∙2 | KA∙3 | HF∙2;NA-TA01;66;4;4;NA;0;0;0
+484;T1-67;temmelig til ekstremt kalkrik flomsonebergknaus;VF∙2 | KA∙4,5 | HF∙1;NA-TA01;67;4;4;NA;0;0;0
+485;T1-68;temmelig til ekstremt kalkrik flomsonebergvegg;VF∙2 | KA∙4,5 | HF∙2;NA-TA01;68;4;4;NA;0;0;0
+486;T1-69;svært og temmelig kalkfattig fossebergknaus;VS∙2 | KA∙1 | HF∙1;NA-TA01;69;4;4;NA;0;0;0
+487;T1-70;svært og temmelig kalkfattig fossebergvegg;VS∙2 | KA∙1 | HF∙2;NA-TA01;70;4;4;NA;0;0;0
+488;T1-71;litt kalkfattig og svakt intermediær fossebergknaus;VS∙2 | KA∙2 | HF∙1;NA-TA01;71;4;4;NA;0;0;0
+489;T1-72;litt kalkfattig og svakt intermediær fossebergvegg;VS∙2 | KA∙2 | HF∙2;NA-TA01;72;4;4;NA;0;0;0
+490;T1-73;sterkt intermediær og litt kalkrik fossebergknaus;VS∙2 | KA∙3 | HF∙1;NA-TA01;73;4;4;NA;0;0;0
+491;T1-74;sterkt intermediær og litt kalkrik fossebergvegg;VS∙2 | KA∙3 | HF∙2;NA-TA01;74;4;4;NA;0;0;0
+492;T1-75;temmelig til ekstremt kalkrik fossebergknaus;VS∙2 | KA∙4,5 | HF∙1;NA-TA01;75;4;4;NA;0;0;0
+493;T1-76;temmelig til ekstremt kalkrik fossebergvegg;VS∙2 | KA∙4,5 | HF∙2;NA-TA01;76;4;4;NA;0;0;0
+494;T1-77;svakt intermediært til svært kalkfattig lite uttørkingseksponert berg i pionérfase [svakt intermediært og kalkfattig lite tørkeutsatt berg i pionérfase];KA∙1,2 | UE∙1,2 | LA∙1;NA;×;NA;NA;22;0;0;1
+495;T1-78;svakt intermediært til svært kalkfattig uttørkingseksponert berg i pionérfase [svakt intermediært og kalkfattig tørkeutsatt berg i pionérfase];KA∙1,2 | UE∙3,4 | LA∙1;NA;×;NA;NA;22;0;0;1
+496;T1-79;sterkt intermediært til ekstremt kalkrikt lite uttørkingseksponert berg i pionérfase [sterkt intermediært til ekstremt kalkrikt lite tørkeutsatt berg i pionérfase];KA∙3∙5 | UE∙1,2 | LA∙1;NA;×;NA;NA;22;0;0;1
+497;T1-80;sterkt intermediært til ekstremt kalkrikt uttørkingseksponert berg i pionérfase [sterkt intermediært til ekstremt kalkrikt tørkeutsatt berg i pionérfase];KA∙3∙5 | UE∙3,4 | LA∙1;NA;×;NA;NA;22;0;0;1
+498;T1-81;svakt intermediært til ekstremt kalkfattig snøleieberg [svakt intermediært og kalkfattig snøleieberg];KA∙1,2 | UE∙1∙4 | SV∙2;NA-TA01;77;4;4;NA;0;0;0
+499;T1-82;sterkt intermediært til ekstremt kalkrikt snøleieberg;KA∙3∙5 | UE∙1∙4 | SV∙2;NA-TA01;78;4;4;NA;0;0;0
+500;T1-83;svakt intermediært til svært kalkfattig sterkt vindutsatt berg [svakt intermediært og kalkfattig forblåst berg];KA∙1,2 | UE∙1∙4 | VI∙2;NA-TA01;79;4;4;NA;0;0;0
+501;T1-84;sterkt intermediært til ekstremt kalkrikt sterkt vindutsatt berg [sterkt intermediært til ekstremt kalkrikt forblåst berg];KA∙3∙5 | UE∙1∙4 | VI∙2;NA-TA01;80;4;4;NA;0;0;0
+502;T1-85;fuglestein og fugleberg;KA∙1∙5 | UE∙1∙4 | NG∙2;NA-TA01;81;4;4;NA;0;0;0
+504;T2-1;Åpen kalkfattig grunnlendt lyngmark;KA1 | UF1;NA-TA02;01,07;4;4;23b;0;0;0
+505;T2-2;Åpen kalkfattig grunnlendt lavmark;KA1 | UF2;NA-TA02;04;4;4;23b;0;0;0
+506;T2-3;Åpen intermediær grunnlendt lyngmark;KA2 | UF1;NA-TA02;02;3;2;NA;0;0;0
+507;T2-4;Åpen intermediær grunnlendt lavmark;KA2 | UF2;NA-TA02;05;4;2;NA;0;0;0
+508;T2-5;åpen svakt kalkrik grunnlendt lyngmark;KA3 | UF1;NA-TA02;02,03;3;1;23c;0;0;0
+509;T2-6;åpen svakt kalkrik grunnlendt lavmark;KA3 | UF2;NA-TA02;05,06;4;2;23c;0;0;0
+510;T2-7;åpen sterkt kalkrik grunnlendt lyngmark;KA4 | UF1;NA-TA02;03;3;2;NA;0;0;0
+511;T2-8;åpen sterkt kalkrik grunnlendt lavmark;KA4 | UF2;NA-TA02;06;4;1;NA;0;0;0
+513;T3-1;kalkfattig leside;KA1 | UF1;NA-TA03;01;4;4;25;0;0;0
+514;T3-2;kalkfattig fjell-lynghei;KA1 | UF2;NA-TA03;04,14;4;4;23b;0;0;0
+515;T3-3;kalkfattig fjell-lavhei;KA1 | UF3;NA-TA03;08;4;4;NA;0;0;0
+516;T3-4;intermediær leside;KA2 | UF1;NA-TA03;02;4;2;NA;0;0;0
+517;T3-5;intermediær fjell-lynghei;KA2 | UF2;NA-TA03;05,15;4;2;23b;0;0;0
+518;T3-6;intermediær fjell-lavhei;KA2 | UF3;NA-TA03;09;4;4;NA;0;0;0
+519;T3-7;svakt kalkrik leside;KA3 | UF1;NA-TA03;02,03;4;1;23a;0;0;0
+520;T3-8;svakt kalkrik fjell-lynghei;KA3 | UF2;NA-TA03;05,06;3;1;23a,23b;0;0;0
+521;T3-9;svakt kalkrik fjell-lavhei;KA3 | UF3;NA-TA03;09,10;4;1;23a;0;0;0
+522;T3-10;sterkt kalkrik leside;KA4 | UF1;NA-TA03;03;4;1;NA;0;0;0
+523;T3-11;sterkt kalkrik fjell-lynghei;KA4 | UF2;NA-TA03;06;4;2;26;0;0;0
+524;T3-12;sterkt kalkrik fjell-lavhei;KA4 | UF3;NA-TA03;10;4;2;26;0;0;0
+525;T3-13;intermediær leside med svak kildevannspåvirkning [intermediær kildepåvirket leside];KA2 | UF1 | KI∙2;NA-TA03;12;4;2;NA;0;0;0
+526;T3-14;kalkrikleside med svak kildevannspåvirkning [kalkrik kildepåvirket leside];KA3,4 | UF1 | KI∙2;NA-TA03;12,13;4;2;NA;0;0;0
+528;T4-1;blåbærskog;UF∙1 | KA∙1;NA-TB01;01,13;4;4;23b;0;0;0
+529;T4-2;svak lågurtskog;UF∙1 | KA∙2;NA-TB01;02;4;2;NA;0;0;0
+530;T4-3;lågurtskog;UF∙1 | KA∙3;NA-TB01;02,03;4;1;23a;0;0;0
+531;T4-4;kalklågurtskog;UF∙1 | KA∙4;NA-TB01;03;4;1;23a;0;0;0
+532;T4-5;bærlyngskog;UF∙2 | KA∙1;NA-TB01;04,16;4;3;23b, 23c,23d;0;0;0
+533;T4-6;svak bærlyng-lågurtskog;UF∙2 | KA∙2;NA-TB01;5;3;2;23b;0;0;0
+534;T4-7;bærlyng-lågurtskog;UF∙2 | KA∙3;NA-TB01;05,06;3;1;23a,23b;0;0;0
+535;T4-8;bærlyng-kalklågurtskog;UF∙2 | KA∙4;NA-TB01;06;4;1;23a;0;0;0
+536;T4-9;lyngskog;UF∙3 | KA∙1;NA-TB01;07;3;4;23b,23c;0;0;0
+537;T4-10;svak lyng-lågurtskog;UF∙3 | KA∙2;NA-TB01;08;3;2;23b;0;0;0
+538;T4-11;lyng-lågurtskog;UF∙3 | KA∙3;NA-TB01;08,09;3;1;23a,23b;0;0;0
+539;T4-12;lyng-kalklågurtskog;UF∙3 | KA∙4;NA-TB01;09;4;1;23a;0;0;0
+540;T4-13;lavskog;UF∙4 | KA∙1;NA-TB01;10;4;4;23b;0;0;0
+541;T4-14;svak lav-lågurtskog;UF∙4 | KA∙2;NA-TB01;11;4;2;NA;0;0;0
+542;T4-15;lav-lågurtskog;UF∙4 | KA∙3;NA-TB01;11,12;4;1;23a;0;0;0
+543;T4-16;lav-kalklågurtskog;UF∙4 | KA∙4;NA-TB01;12;4;1;23a;0;0;0
+544;T4-17;storbregneskog;UF∙1 | KA∙2 | KI∙2;NA-TB01;14;4;2;NA;0;0;0
+545;T4-18;høgstaudeskog;UF∙1 | KA∙34 | KI∙2;NA-TB01;14,15;4;3;23a;0;0;0
+546;T4-19;litt tørkeutsatt høgstaudeskog;UF∙2 | KA∙34 | KI∙2;NA-TB01;17,18;4;2;23d, 26b;0;0;0
+547;T4-20;tørkeutsatt høgstaudeskog;UF∙3 | KA∙34 | KI∙2;NA-TB01;17,18;4;1;23d, 26b;0;0;0
+549;T5-1;kalkfattig overheng;GS∙1 | KA∙1;NA-TC02;01;4;4;NA;0;0;0
+550;T5-2;intermediært og svakt kalkrikt overheng;GS∙1 | KA∙2;NA-TC02;02;3;4;NA;0;0;0
+551;T5-3;sterkt kalkrikt overheng;GS∙1 | KA∙3;NA-TC02;02,03;4;2;NA;0;0;0
+552;T5-4;kalkfattig til svakt kalkrik grotte og overheng [mindre kalkrik grotte];GS∙2 | KA∙1,2;NA-TC02;04;3;4;NA;0;0;0
+553;T5-5;sterkt kalkrik grotte og overheng [karstgrotte og overheng];GS∙2 | KA∙3;NA-TC02;05;4;3;NA;0;0;0
+554;T5-6;kalkfattig til svakt kalkrik indre del av dyp grotte [mindre kalkrikt grottedyp];GS∙3 | KA∙1,2;NA-TC02;06;4;1;28;0;0;0
+555;T5-7;sterkt kalkrik indre del av dyp grotte [indre del av dyp karstgrotte];GS∙3 | KA∙3;NA-TC02;06;4;2;28;0;0;0
+556;T5-8;uttørkingseksponert kalkfattig overheng [tørt kalkfattig overheng];GS∙1 | KA∙1 | UE∙2;NA-TC02;07;4;4;NA;0;0;0
+557;T5-9;uttørkingseksponert intermediært og svakt kalkrikt overheng [tørt intermediært og svakt kalkrikt overheng];GS∙1 | KA∙2 | UE∙2;NA-TC02;08;3;4;NA;0;0;0
+558;T5-10;uttørkingseksponert sterkt kalkrikt overheng [tørt sterkt kalkrikt overheng];GS∙1 | KA∙3 | UE∙2;NA-TC02;08,09;4;2;NA;0;0;0
+560;T6-1;kalkfattig og intermediær beskyttet bergknaus i nedre supralitoral [bergknaus i nedre bølgeslagssone];TV∙1 | KA∙1 | VF∙1 | HF∙1 | IF∙A;NA-TC01;01;4;4;NA;0;0;0
+561;T6-2;kalkfattig og intermediær beskyttet bergknaus i midtre supralitoral [bergknaus i øvre bølgeslagssone];TV∙2 | KA∙1 | VF∙1 | HF∙1 | IF∙A;NA-TC01;02;4;2;NA;0;0;0
+562;T6-3;kalkfattig og intermediær beskyttet bergknaus i øvre supralitoral [bergknaus i bølgesprutsonen];TV∙3 | KA∙1 | VF∙1 | HF∙1 | IF∙A;NA-TC01;02;4;1;NA;0;0;0
+563;T6-4;svært kalkrik beskyttet bergknaus i øvre supralitoral [kalkrik bergknaus i bølgesprutsonen];TV∙3 | KA∙2 | VF∙1 | HF∙1 | IF∙A;NA-TC01;03;4;4;NA;0;0;0
+564;T6-5;kalkfattig og intermediær eksponert bergknaus i nedre supralitoral [eksponert bergknaus i nedre bølgeslagssone];TV∙1 | KA∙1 | VF∙2 | HF∙1 | IF∙A;NA-TC01;04;4;4;NA;0;0;0
+565;T6-6;kalkfattig og intermediær beskyttet bergvegg i midtre supralitoral [bergvegg i øvre bølgeslagssone];TV∙2 | KA∙1 | VF∙1 | HF∙2 | IF∙A;NA-TC01;05;4;4;NA;0;0;0
+566;T6-7;kalkfattig og intermediær beskyttet bergknaus i øvre supralitoral preget av disruptiv isforstyrrelse [ispåvirket bergknaus i bølgesprutsonen];TV∙3 | KA∙1 | VF∙1 | HF∙1 | IF∙B;NA-TC01;06;4;4;NA;0;0;0
+568;T7-1;svært kalkfattig moderat snøleie;KA∙1 | SV∙1;NA-TC08;01;4;1;23b;0;0;0
+569;T7-2;svakt kalkfattig moderat snøleie;KA∙2 | SV∙1;NA-TC08;01;4;3;NA;0;0;0
+570;T7-3;intermediært moderat snøleie;KA∙3 | SV∙1;NA-TC08;02;4;2;NA;0;0;0
+571;T7-4;kalkfattig og intermediært seint snøleie;KA∙2,3 | SV∙2;NA-TC08;04,05;3;4;NA;0;0;0
+572;T7-5;kalkfattig og intermediært ekstrem-snøleie;KA∙2,3 | SV∙3;NA-TC08;07;3;4;NA;0;0;0
+573;T7-6;svakt kalkrikt moderat snøleie;KA∙4 | SV∙1;NA-TC08;02,03;4;1;NA;0;0;0
+574;T7-7;svakt kalkrikt seint snøleie;KA∙4 | SV∙2;NA-TC08;05,06;4;1;NA;0;0;0
+575;T7-8;sterkt kalkrikt moderat snøleie;KA∙5 | SV∙1;NA-TC08;03;4;2;26c;0;0;0
+576;T7-9;sterkt kalkrikt seint snøleie;KA∙5 | SV∙2;NA-TC08;06;4;2;26c;0;0;0
+577;T7-10;kalkrikt ekstrem-snøleie;KA∙4,5 | SV∙3;NA-TC08;08;2;4;NA;0;0;0
+578;T7-11;vegetasjonsfritt snøleie;KA∙2-5 | SV∙4;NA-TC08;09;4;4;NA;0;0;0
+579;T7-12;intermediært moderat snøleie med svak kildepåvirkning [kildepåvirket intermediært snøleie];KA∙3 | SV∙1 | KI∙2;NA-TC08;10;4;2;NA;0;0;0
+580;T7-13;nokså kalkrikt moderat snøleie med svak kildepåvirkning [kildepåvirket nokså kalkrikt snøleie];KA∙4 | SV∙1 | KI∙2;NA-TC08;10,11;4;1;NA;0;0;0
+581;T7-14;sterkt kalkrikt moderat snøleie med svak kildepåvirkning [kildepåvirket kalksnøleie];KA∙5 | SV∙1 | KI∙2;NA-TC08;11;4;2;26c;0;0;0
+583;T8-1;fuglefjell-eng med klart naturlig gjødslingspreg [moderat gjødslet fuglefjell-eng];UF∙A | NG∙1;NA-TC06;01;4;4;NA;0;0;0
+584;T8-2;fuglefjell-eng med sterkt naturlig gjødslingspreg [sterkt gjødslet fuglefjell-eng];UF∙A | NG∙2;NA-TC06;02;4;4;NA;0;0;0
+585;T8-3;overgjødslet fuglefjell-eng;UF∙A | NG∙3;NA-TC06;03;4;4;NA;0;0;0
+586;T8-4;fuglefjell-eng med klart naturlig gjødslingspreg og svak kildevannspåvirkning [kildepåvirket fuglefjell-eng];UF∙A | NG∙1 | KI∙2;NA-TC06;04;4;4;NA;0;0;0
+587;T8-5;fugletopp med klart naturlig gjødslingspreg [fugletopp];UF∙B | NG∙1;NA-TC07;01;4;4;NA;0;0;0
+589;T9-1;kalkfattig og intermediær mosetundra [fattig-intermediær mosetundra];KA∙1 (cde);NA-TA04;01,02;2;0;NA;0;0;0
+590;T9-2;kalkrik mosetundra;KA∙2 (fghi);NA-TA04;02,03;2;0;NA;0;0;0
+592;T10-1;beskyttet grashei i arktisk steppe [beskyttet arktisk steppe];VI∙1;NA-TA03;07,11;4;4;30a;0;0;0
+593;T10-2;rabbe i arktisk steppe [arktisk steppe-rabbe];VI∙2;NA-TD06;04;4;4;30b;0;0;0
+595;T11-1;saltanrikingsmark på grus i geolitoral [nedre saltanrikingsmark på grus];S1∙A | TV∙1;NA-TC03;03;3;0;31a, 31b;0;0;0
+596;T11-2;saltanrikingsmark på grus i supralitoral [øvre saltanrikingsmark på grus];S1∙A | TV∙2;NA-TC03;04;4;1;31a;0;0;0
+597;T11-3;saltanrikingsmark på silt og leire i geolitoral [saltanrikingsmark på bløtbunn];S1∙B | TV∙1;NA-TC04;01,02;4;4;31c;0;0;0
+599;T12-1;strandeng i nedre geoliitoral [nedre strandeng];TV∙1;NA-TC05;01;4;3;NA;0;0;0
+600;T12-2;strandeng i midtre geoliitoral [midtre strandeng];TV∙2;NA-TC05;02;4;3;NA;0;0;0
+601;T12-3;strandeng i øvre geoliitoral [øvre strandeng];TV∙3;NA-TC05;03;4;3;NA;0;0;0
+602;T12-4;strandeng i supraliitoral [øverste strandeng];TV∙4;NA-TC05;04;4;4;NA;0;0;0
+604;T13-1;uttørkingseksponert kalkfattig blokkdominert rasmark [kalkfattig grov ur];UE∙2 | KA∙1 | S1∙A;NA-TD01;04,10;4;1;23b,33b,33c;0;0;0
+605;T13-2;uttørkingseksponert kalkfattig steindominert rasmark [kalkfattig ur];UE∙2 | KA∙1 | S1∙B;NA-TD01;04;4;1;23b,33b,33c;0;0;0
+606;T13-3;kalkfattig grus- og sanddominert rasmark [kalkfattig grus- og sanddominert rasmark];UE∙1∙2 | KA∙1 | S1∙C;NA-TD01;01;4;4;23b;0;0;0
+607;T13-4;uttørkingseksponert intermediær og svakt kalkrik blokkdominert rasmark [intermediær og svakt kalkrik grov ur];UE∙2 | KA∙2 | S1∙A;NA-TD01;05,11;3;1;23a,33b,33c;0;0;0
+608;T13-5;uttørkingseksponert intermediær og svakt kalkrik steindominert rasmark [intermediær og svakt kalkrik ur];UE∙2 | KA∙2 | S1∙B;NA-TD01;05;3;1;23a,33b,33c;0;0;0
+609;T13-6;intermediær og svakt kalkrik grus- og sanddominert rasmark [intermediær og svakt kalkrik grus- og sanddominert rasmark];UE∙1∙2 | KA∙2 | S1∙C;NA-TD01;02;3;4;23a;0;0;0
+610;T13-7;uttørkingseksponert sterkt kalkrik blokkdominert rasmark [sterkt kalkrik grov ur];UE∙2 | KA∙3 | S1∙A;NA-TD01;06, 12;4;1;26c,33b,33c;0;0;0
+611;T13-8;uttørkingseksponert sterkt kalkrik steindominert rasmark [sterkt kalkrik ur];UE∙2 | KA∙3 | S1∙B;NA-TD01;06;4;1;26c,33b,33c;0;0;0
+612;T13-9;sterkt kalkrik grus- og sanddominert rasmark [sterkt kalkrik grus- og sanddominert rasmark];UE∙1∙2 | KA∙3 | S1∙C;NA-TD01;03;4;2;23a;0;0;0
+613;T13-10;lite uttørkingseksponert kalkfattig blokkdominert rasmark [kalkfattig fuktig grov ur];UE∙1 | KA∙1 | S1∙A;NA-TD01;04,07;4;1;23b,33b,33c;0;0;0
+614;T13-11;lite uttørkingseksponert kalkfattig steindominert rasmark [kalkfattig fuktig ur];UE∙1 | KA∙1 | S1∙B;NA-TD01;11;4;2;23b,33b,33c;0;0;0
+615;T13-12;lite uttørkingseksponert intermediær og svakt kalkrik blokkdominert rasmark [intermediær og svakt kalkrik fuktig grov ur];UE∙1 | KA∙2 | S1∙A;NA-TD01;05,08;3;1;23a,33b,33c;0;0;0
+616;T13-13;intermediær til temmelig uttørkingseksponert intermediær og svakt kalkrik steindominert rasmark [intermediær og svakt kalkrik fuktig ur];UE∙1 | KA∙2 | S1∙B;NA-TD01;05;3;1;23a,33b,33c;0;0;0
+617;T13-14;lite uttørkingseksponert sterkt kalkrik blokkdominert rasmark [sterkt kalkrik fuktig grov ur];UE∙1 | KA∙3 | S1∙A;NA-TD01;06,09;4;1;26c,33b,33c;0;0;0
+618;T13-15;lite uttørkingseksponert sterkt kalkrik steindominert rasmark [sterkt kalkrik fuktig ur];UE∙1 | KA∙3 | S1∙B;NA-TD01;06;4;1;26c,33b,33c;0;0;0
+619;T13-16;blokkdominert rasmark med disruptivt raspreg [ustabil grov ur];UE∙1∙2 | KA∙1∙3 | S1∙A | RU∙B;NA;×;NA;NA;33d;0;0;1
+620;T13-17;steindominert rasmark med disruptivt raspreg [ustabil ur];UE∙1∙2 | KA∙1∙3 | S1∙B | RU∙B;NA;×;NA;NA;33d;0;0;1
+621;T13-18;grus- og sanddominert rasmark med disruptivt raspreg [ustabil grus- og sanddominert rasmark];UE∙1∙2 | KA∙1∙3 | S1∙C | RU∙B;NA;×;NA;NA;33d;0;0;1
+623;T14-1;kalkfattig og intermediær rabbe;VI∙A | KA∙1;NA-TD06;01,02;4;2;23a,23b;0;0;0
+624;T14-2;kalkrik rabbe;VI∙A | KA∙2;NA-TD06;02,03;4;2;23a;0;0;0
+625;T14-3;deflasjonsrabbe;VI∙B | KA∙1,2;NA-TD06;05;4;4;NA;0;0;0
+627;T15-1;kalkfattig og intermediær fosse-eng;KA∙1;NA-TD04;01,03;4;2;NA;0;0;0
+628;T15-2;kalkrik fosse-eng;KA∙2;NA-TD04;02,04;4;2;NA;0;0;0
+630;T16-1;kalkfattig rasmarkeng og -hei;KA∙1 | KI∙1;NA-TD03;01;4;4;23b;0;0;0
+631;T16-2;intermediær rasmarkeng og -hei;KA∙2 | KI∙1;NA-TD03;02;4;2;23a;0;0;0
+632;T16-3;svakt kalkrik rasmarkeng og -hei;KA∙3 | KI∙1;NA-TD03;02,03;4;1;23a;0;0;0
+633;T16-4;sterkt kalkrik rasmarkeng og -hei;KA∙4 | KI∙1;NA-TD03;03;4;1;23a;0;0;0
+634;T16-5;intermediær rasmarkeng og -hei med svak kildepåvirkning [kildepåvirket intermediær rasmarkeng og -hei];KA∙2 | KI∙2;NA-TD03;04;4;2;23a;0;0;0
+635;T16-6;kalkrik rasmarkeng og -hei med svak kildepåvirkning [kildepåvirket kalkrik rasmarkeng og -hei];KA∙3,4 | KI∙2;NA-TD03;04,05;4;3;NA;0;0;0
+636;T16-7;rasmarkeng og -hei med svært sterkt raspreg [sterkt raspreget rasmarkeng og -hei];KA∙1∙4 | KI∙1 | RU∙2;NA-TD03;06;4;4;NA;0;0;0
+638;T17-1;jordskred;S1∙A;NA;×;NA;NA;35;0;0;1
+639;T17-2;grusskred;S1∙B;NA-TE02;03;4;4;NA;0;0;0
+640;T17-3;sandskred;S1∙C;NA-TE02;02;4;4;NA;0;0;0
+641;T17-4;silt- og leirskred;S1∙D;NA-TE02;01;4;4;NA;0;0;0
+643;T18-1;beskyttet-eksponert åpen flomfastmark på grus og stein [åpen flomfastmark på grus og stein];S1∙A | VF∙1;"NA-TE03NA-TE08";"03,04,01";3;2;23a,36a,36c, 37;0;0;0
+644;T18-2;beskyttet-eksponert åpen flomfastmark på sand [åpen flomfastmark på sand];S1∙B | VF∙1;NA-TE03;03;3;1;37;0;0;0
+645;T18-3;beskyttet-eksponert åpen flomfastmark på silt og leire [åpen flomfastmark på silt og leire];S1∙C | VF∙1;NA-TE03;01,02;3;3;37;0;0;0
+646;T18-4;svært sterkt eksponert åpen flomfastmark [sterkt eksponert åpen flomfastmark];S1∙A∙C | VF∙2;NA-TE03;01,02,03, 04;3;0;36c;0;0;0
+647;T18-5;beskyttet-eksponert åpen flomfastmark på kalkrik grus og stein [åpen flomfastmark på kalkrik grus og stein];S1∙A | VF∙1 | KA∙2;"NA-TE03,NA-TE08";"05,02";2;3;23a, 36a,37;0;0;0
+648;T18-6;beskyttet-eksponert åpen flomfastmark på sand, utsatt for langvarig oversvømmelse [åpen flomfastmark på sand med langvarig oversvømmelse];S1∙B | VF∙1 | FR∙2;NA-TE04;01,02;4;4;38;0;0;0
+650;T19-1;kalkfattige finjordsflekker;S1∙B | KA∙1;NA-TE05;01,09;4;2;NA;0;0;0
+651;T19-2;kalkrike finjordsflekker;S1∙B | KA∙2;NA-TE05;02,09;2;3;NA;0;0;0
+652;T19-3;oppfrysingsmark på stein og grus;S1∙A;NA-TE05;"03,04,05, 06,07,08,10";4;4;NA;0;0;0
+654;T20-1;kalkfattig og intermediær isinnfrysingsmark;KA∙1;NA-TE09;01,02;4;3;NA;0;0;0
+655;T20-2;kalkrik isinnfrysingsmark;KA∙2;NA-TE09;03;3;4;NA;0;0;0
+657;T21-1;forstrand;SS∙1;NA-TC03;03,04;3;2;41;0;0;0
+658;T21-2;primærdyne;SS∙2;NA-TE01;01;4;4;NA;0;0;0
+659;T21-3;kvit dyne;SS∙3;NA-TE01;02;4;4;NA;0;0;0
+660;T21-4;grå dyne;SS∙4;NA-TE01;03;4;4;NA;0;0;0
+661;T21-5;brun dyne;SS∙5;NA-TE01;04;4;4;NA;0;0;0
+662;T21-6;dynehei;SS∙6;NA-TE01;05;4;4;NA;0;0;0
+663;T21-7;deflasjonsmark [ustabil sanddyne];SS∙4,5 | VI∙B;NA-TE01;08;4;4;NA;0;0;0
+664;T21-8;vekselfuktig eller fuktig sanddynemark [dynetrau];SS∙5,6 | VM∙2;NA-TE01;09;4;4;NA;0;0;0
+666;T22-1;kalkfattig og intermediær fjellgrashei;KA∙1 | SV∙1;NA-TA04;01,02;3;2;NA;0;0;0
+667;T22-2;kalkfattig og intermediært grassnøleie;KA∙1 | SV∙2;NA-TA04;01,02;3;1;NA;0;0;0
+668;T22-3;kalkrik fjellgrashei;KA∙2 | SV∙1;NA-TA04;02,03;4;2;NA;0;0;0
+669;T22-4;kalkrikt grassnøleie;KA∙2 | SV∙2;NA-TA04;02,03;4;1;NA;0;0;0
+671;T23-1;ferskvannsdriftvoll;0;NA-TE07;01;4;4;NA;0;0;0
+673;T24-1;beskyttet driftvoll [høgurtdriftvoll];VF∙1;NA-TE06;01;3;4;44a;0;0;0
+674;T24-2;moderat eksponert driftvoll [lågurtdriftvoll];VF∙2;NA-TE06;02;3;4;44a;0;0;0
+675;T24-3;eksponert driftvoll [ettårsdriftvoll];VF∙3;NA-TE06;03,04;4;4;44b;0;0;0
+677;T25-1;historisk jordskred;S1∙A;NA-TG01;47,48,49;4;4;NA;0;0;0
+678;T25-2;historisk grusskred;S1∙B;NA-TG01;43,44;4;1;NA;0;0;0
+679;T25-3;historisk sandskred;S1∙C;NA-TG01;43,44;4;2;NA;0;0;0
+680;T25-4;historisk silt- og leirskred;S1∙D;NA-TG01;41,42;4;4;NA;0;0;0
+682;T26-1;veldrenerte eller vekselfuktige fjellhei-initialer [veldrenert breforland i etableringsfasen mot fjellhei];SV∙1 | VM∙1;NA-TG01;28,33,38;4;3;46,47;0;0;0
+683;T26-2;fuktige fjellhei-initialer [fuktig breforland i etableringsfasen mot fjellhei];SV∙1 | VM∙2;NA-TG01;28,33,38;4;0;46,47;0;0;0
+684;T26-3;veldrenerte eller vekselfuktige snøleie-initialer [veldrenert breforland i etableringsfasen mot snøleie];SV∙2 | VM∙1;NA-TG01;29,34,39;4;3;46,47;0;0;0
+685;T26-4;fuktige snøleie-initialer [fuktig breforland i etableringsfasen mot snøleie];SV∙2 | VM∙2;NA-TG01;29,34,39;4;0;46,47;0;0;0
+686;T26-5;breforland og snøavsmeltingsområde i pionerfase dominert av grov grus og stein [grus- og steindominert breforland i pionerfasen];LA∙1 | S1∙A;NA-TG01;31,36;4;2;NA;0;0;0
+687;T26-6;breforland og snøavsmeltingsområde i pionerfase dominert av sand og fin grus [sanddominert breforland i pionerfasen];LA∙1 | S1∙B;NA-TG01;31;4;3;NA;0;0;0
+688;T26-7;breforland og snøavsmeltingsområde i pionerfase dominert av silt og leire [silt- og leirdominert breforland i pionerfasen];LA∙1 | S1∙C;NA-TG01;27;4;4;NA;0;0;0
+690;T27-1;kalkfattig og intermediær blokkmark uten snødekkebetinget vekstsesongreduksjon [kalkfattig og intermediær blokkmark];SV∙1 | KA∙1;NA;×;NA;NA;47c,47d;0;0;1
+691;T27-2;kalkfattig og intermediær blokkmark i snøleie [kalkfattig og intermediær snøleie-blokkmark];SV∙2 | KA∙1;NA-TG01;12,17;4;2;47a;0;0;0
+692;T27-3;kalkrik  blokkmark uten snødekkebetinget vekstsesongreduksjon [kalkrik blokkmark];SV∙1 | KA∙2;NA;×;NA;NA;47c,47d;0;0;1
+693;T27-4;kalkrik  blokkmark i snøleie [kalkrik snøleie-blokkmark];SV∙2 | KA∙2;NA-TG01;13,17;3;1;47a;0;0;0
+694;T27-5;blokkmark i vegetasjonsfritt snøleie;SV∙3 | KA∙1,2;NA-TG01;12,13,17;4;0;47a;0;0;0
+695;T27-6;kalkfattig og intermediær blokkmark uten snødekkebetinget vekstsesongreduksjon med sterkt vindpreg [kalkfattig og intermediær rabbepreget blokkmark];SV∙1 | KA∙1 | VI∙2;NA-TG01;10,15;4;2;47b;0;0;0
+696;T27-7;kalkrik  blokkmark uten snødekkebetinget vekstsesongreduksjon med sterkt vindpreg [kalkrik rabbepreget blokkmark];SV∙1 | KA∙2 | VI∙2;NA-TG01;11,15;3;1;47b;0;0;0
+697;T27-8;blokkmark i pionerfase [pionérfase-blokkmark];LA∙1;NA-TG01;09,14;4;2;NA;0;0;0
+699;T28-1;kalkfattig polarørken;KA∙1;NA-TG01;01,09;4;0;NA;0;0;0
+700;T28-2;intermediær og svakt kalkrik polarørken;KA∙2;NA-TG01;01,09;4;0;NA;0;0;0
+701;T28-3;sterkt kalkrik polarørken;KA∙3;NA-TG01;01,09;4;0;NA;0;0;0
+703;T29-1;steinstrand i pionerfase på epilitoral fastmark [øvre steinstrand med pionervegetasjon];TV∙2 | S1∙A | LA∙1;NA-TG01;23;4;4;NA;0;0;0
+704;T29-2;steinstrand i etablerings- og konsolideringsfase på epilitoral fastmark [øvre steinstrand uten pionervegetasjon];TV∙2 | S1∙A | LA∙2;NA-TG01;25,26;3;3;NA;0;0;0
+705;T29-3;grusstrand i pionerfase på epilitoral fastmark [øvre grusstrand med pionervegetasjon];TV∙2 | S1∙B | LA∙1;NA-TG01;19;4;4;NA;0;0;0
+706;T29-4;grusstrand i etablerings- og konsolideringsfase på epilitoral fastmark [øvre grusstrand uten pionervegetasjon];TV∙2 | S1∙B | LA∙2;NA-TG01;21,22;3;3;NA;0;0;0
+707;T29-5;skjellsandstrand i pionerfase på epilitoral fastmark [øvre sandstrand med pionervegetasjon];TV∙2 | S1∙C | LA∙1;NA-TG01;19;4;0;49b;0;0;0
+708;T29-6;skjellsandstrand i etablerings- og konsolideringsfase på epilitoral fastmark [øvre sandstrand uten pionervegetasjon];TV∙2 | S1∙C | LA∙2;NA-TG01;21;3;0;49b;0;0;0
+709;T29-7;steinstrand i pionerfase i supralitoral [nedre steinstrand med pionervegetasjon];TV∙1 | S1∙A | LA∙1;NA-TC03;07;4;3;NA;0;0;0
+710;T29-8;grusstrand i pionerfase i supralitoral [nedre grusstrand med pionervegetasjon];TV∙1 | S1∙B | LA∙1;NA-TC03;04;3;1;NA;0;0;0
+711;T29-9;skjellsandstrand i pionerfase i supralitoral [nedre sandstrand med pionervegetasjon];TV∙1 | S1∙C | LA∙1;NA-TC03;09;4;4;NA;0;0;0
+712;T29-10;grusstrand i etablerings- og konsolideringsfase på epilitoral fastmark med vinddeflasjon [øvre grusstrand med vinddeflasjon];TV∙2 | S1∙B | LA∙2 | VI∙2;NA-TG01;20;3;2;47b;0;0;0
+714;T30-1;beskyttet flomskogsmark på grus og stein;S1∙A | VF∙1;NA-TF02;04;4;4;NA;0;0;0
+715;T30-2;eksponert flomskogsmark på grus og stein;S1∙A | VF∙2;NA-TF02;05;4;4;NA;0;0;0
+716;T30-3;beskyttet flomskogsmark på finmateriale;S1∙B | VF∙1;NA-TF02;01;4;4;NA;0;0;0
+717;T30-4;eksponert flomskogsmark på finmateriale;S1∙B | VF∙2;NA-TF02;02;4;3;50;0;0;0
+718;T30-5;beskyttet flomskogsmark på finmateriale med svak kildevannspåvirkning [beskyttet flomskogsmark med storbregner og høgstauder];S1∙B | VF∙1 | KI∙2;NA-TF02;03;4;2;NA;0;0;0
+719;T30-6;eksponert flomskogsmark på finmateriale med svak kildevannspåvirkning [eksponert flomskogsmark med storbregner og høgstauder];S1∙B | VF∙2 | KI∙2;NA-TF02;03;4;1;NA;0;0;0
+720;T30-7;eksponert flomskogsmark på finmateriale med klart erosjonspreg [erosjonspreget flomskogsmark];S1∙B | VF∙2 | ER∙2;NA-TF02;02;4;0;50;0;0;0
+722;T31-1;kalkfattig boreal frisk hei;KA∙1 | UF∙1;NA-TH01;01;4;4;25;0;0;0
+723;T31-2;kalkfattig boreal lynghei;KA∙1 | UF∙2;NA-TH01;04,12;4;4;23b;0;0;0
+724;T31-3;kalkfattig boreal lavhei;KA∙1 | UF∙3;NA-TH01;07;4;4;NA;0;0;0
+725;T31-4;intermediær boreal frisk hei;KA∙2 | UF∙1;NA-TH01;02;4;2;NA;0;0;0
+726;T31-5;intermediær boreal lynghei;KA∙2 | UF∙2;NA-TH01;05,13;4;2;23b;0;0;0
+727;T31-6;intermediær boreal lavhei;KA∙2 | UF∙3;NA-TH01;08;4;4;NA;0;0;0
+728;T31-7;svakt kalkrik boreal frisk hei;KA∙3 | UF∙1;NA-TH01;02,03;4;1;23a;0;0;0
+729;T31-8;svakt kalkrik boreal lynghei;KA∙3 | UF∙2;NA-TH01;05,06;3;1;23a,23b;0;0;0
+730;T31-9;svakt kalkrik boreal lavhei;KA∙3 | UF∙3;NA-TH01;08,09;4;1;23a;0;0;0
+731;T31-10;sterkt kalkrik boreal frisk hei;KA∙4 | UF∙1;NA-TH01;03;4;1;NA;0;0;0
+732;T31-11;sterkt kalkrik boreal lynghei;KA∙4 | UF∙2;NA-TH01;06;4;2;26;0;0;0
+733;T31-12;sterkt kalkrik boreal lavhei;KA∙4 | UF∙3;NA-TH01;09;4;2;26;0;0;0
+734;T31-13;intermediær boreal frisk hei med kildepåvirkning [intermediær kildepåvirket boreal frisk hei];KA∙2 | UF∙1 | KI∙2;NA-TH01;10;4;2;NA;0;0;0
+735;T31-14;kalkrik boreal frisk hei med kildepåvirkning [kalkrik kildepåvirket boreal frisk hei];KA∙3,4 | UF∙1 | KI∙2;NA-TH01;10,11;4;2;NA;0;0;0
+737;T32-1;kalkfattig eng med svært ekstensivt hevdpreg [kalkfattig eng med mindre hevdpreg];KA∙1 | HI∙1;NA-TK01;01;3;2;23b;0;0;0
+738;T32-2;kalkfattig eng med ekstensivt hevdpreg [kalkfattig eng med klart hevdpreg];KA∙1 | HI∙2;NA-TK01;07,13,19;3;2;23b;0;0;0
+739;T32-3;intermediær eng med svært ekstensivt hevdpreg [intermediær eng med mindre hevdpreg];KA∙2 | HI∙1;NA-TK01;02;3;2;NA;0;0;0
+740;T32-4;intermediær eng med ekstensivt hevdpreg [intermediær eng med klart hevdpreg];KA∙2 | HI∙2;NA-TK01;08,14,20;3;1;NA;0;0;0
+741;T32-5;intermediær eng med svakt intensivt hevdpreg [intermediær eng med gjødselpåvirkning];KA∙2 | HI∙3;NA-TK01;20;3;0;NA;0;0;0
+742;T32-6;svakt kalkrik eng med svært ekstensivt hevdpreg [svakt kalkrik eng med mindre hevdpreg];KA∙3 | HI∙1;NA-TK01;02,03;3;1;NA;0;0;0
+743;T32-7;svakt kalkrik eng med ekstensivt hevdpreg [svakt kalkrik eng med klart hevdpreg];KA∙3 | HI∙2;NA-TK01;"08,09,14,15,20,21";3;1;NA;0;0;0
+744;T32-8;svakt kalkrik eng med svakt intensivt hevdpreg [svakt kalkrik eng med gjødselpåvirkning];KA∙3 | HI∙3;NA-TK01;20,21;3;0;NA;0;0;0
+745;T32-9;sterkt kalkrik eng med svært ekstensivt hevdpreg [sterkt kalkrik eng med mindre hevdpreg];KA∙4 | HI∙1;NA-TK01;03;3;1;NA;0;0;0
+746;T32-10;sterkt kalkrik eng med ekstensivt hevdpreg [sterkt kalkrik eng med ekstensivt hevdpreg];KA∙4 | HI∙2;NA-TK01;09,15,21;3;1;NA;0;0;0
+747;T32-11;kalkrik eng med svært ekstensivt hevdpreg og svak kildepåvirkning [kalkrik fukteng med mindre hevdpreg];KA∙3,4 | HI∙1 | KI∙2;NA-TK01;25;4;1;NA;0;0;0
+748;T32-12;kalkrik eng med ekstensivt og svakt intensivt hevdpreg og svak kildepåvirkning [kalkrik fukteng med klart hevdpreg og gjødselpåvirkning];KA∙3,4 | HI∙2,3 | KI∙2;NA-TK01;25;4;2;NA;0;0;0
+749;T32-13;kalkfattig tørkeutsatt eng med svært ekstensivt hevdpreg [kalkfattig tørreng med mindre hevdpreg];KA∙1 | HI∙1 | UF∙2;NA-TK01;04;3;2;23b;0;0;0
+750;T32-14;kalkfattig tørkeutsatt eng med ekstensivt hevdpreg [kalkfattig tørreng med klart hevdpreg];KA∙1 | HI∙2 | UF∙2;NA-TK01;10,16,22;3;2;23b;0;0;0
+751;T32-15;intermediær tørkeutsatt eng med svært ekstensivt hevdpreg [intermediær tørreng med mindre hevdpreg];KA∙2 | HI∙1 | UF∙2;NA-TK01;05;3;2;NA;0;0;0
+752;T32-16;intermediær tørkeutsatt eng med ekstensivt og svakt intensivt hevdpreg [intermediær tørreng med klart hevdpreg og gjødselpåvirkning];KA∙2 | HI∙2,3 | UF∙2;NA-TK01;11,17,23;3;2;NA;0;0;0
+753;T32-17;svakt kalkrik tørkeutsatt eng med svært ekstensivt hevdpreg [svakt kalkrik tørreng med mindre hevdpreg];KA∙3 | HI∙1 | UF∙2;NA-TK01;05,06;3;1;NA;0;0;0
+754;T32-18;svakt kalkrik tørkeutsatt eng med ekstensivt og svakt intensivt hevdpreg [svakt kalkrik tørreng med klart hevdpreg og gjødselpåvirkning];KA∙3 | HI∙2,3 | UF∙2;NA-TK01;"11,12,17,18,23,24";3;1;NA;0;0;0
+755;T32-19;sterkt kalkrik tørkeutsatt eng med svært ekstensivt hevdpreg [sterkt kalkrik tørreng med mindre hevdpreg];KA∙4 | HI∙1 | UF∙2;NA-TK01;06;3;1;NA;0;0;0
+756;T32-20;sterkt kalkrik tørkeutsatt eng med ekstensivt hevdpreg [sterkt kalkrik tørreng med klart hevdpreg];KA∙4 | HI∙2 | UF∙2;NA-TK01;12,18,24;3;1;NA;0;0;0
+757;T32-21;svakt kalkrik tørkeutsatt eng på stabilisert sand med ekstensivt og svakt intensivt hevdpreg [sanddyne-eng med klart hevdpreg og gjødselpåvirkning];KA∙3 | HI∙2,3 | UF∙2 | SS∙1;NA-TK01;27;4;4;NA;0;0;0
+759;T33-1;semi-naturlig strandeng i øvre geolitoral [nedre semi-naturlig strandeng];TV∙1;NA-TK02;01;3;4;NA;0;0;0
+760;T33-2;semi-naturlig strandeng i supralitoral [øvre semi-naturlig strandeng];TV∙2;NA-TK02;02;3;4;NA;0;0;0
+762;T34-1;kalkfattig bakli-hei;KA∙1 | UF∙1;NA-TK03;01;4;4;23b;0;0;0
+763;T34-2;kalkfattig kystlynghei [kalkfattig kystlynghei];KA∙1 | UF∙2;NA-TK03;03;4;2;23b;0;0;0
+764;T34-3;kalkfattig tørkeutsatt kystlynghei [kalkfattig tørr kystlynghei];KA∙1 | UF∙3;NA-TK03;03;4;1;23b;0;0;0
+765;T34-4;intermediær bakli-hei;KA∙2 | UF∙1;NA-TK03;02;4;4;NA;0;0;0
+766;T34-5;intermediær kystlynghei;KA∙2 | UF∙2;NA-TK03;04;4;2;NA;0;0;0
+767;T34-6;intermediær tørkeutsatt kystlynghei [intermediær tørr kystlynghei];KA∙2 | UF∙3;NA-TK03;04;4;1;NA;0;0;0
+768;T34-7;svakt kalkrik kystlynghei;KA∙3 | UF∙2;NA-TK03;04,05;4;1;NA;0;0;0
+769;T34-8;svakt kalkrik tørkeutsatt kystlynghei [svakt kalkrik tørr kystlynghei];KA∙3 | UF∙3;NA-TK03;04,05;4;0;NA;0;0;0
+770;T34-9;sterkt kalkrik kystlynghei;KA∙4 | UF∙2;NA-TK03;05;4;1;NA;0;0;0
+771;T34-10;sterkt kalkrik tørkeutsatt kystlynghei [sterkt kalkrik tørr kystlynghei];KA∙4 | UF∙3;NA-TK03;05;4;0;NA;0;0;0
+772;T34-11;kalkfattig kystlynghei på vekselfuktig og fuktig mark [kalkfattig fuktig kystlynghei];KA∙1 | UF∙2 | VM∙2;NA-TK03;07;4;4;NA;0;0;0
+773;T34-12;intermediær kystlynghei på vekselfuktig og fuktig mark [intermediær fuktig kystlynghei];KA∙2 | UF∙2 | VM∙2;NA-TK03;08;4;4;NA;0;0;0
+775;T35-1;sterkt endret fastmark med dekke av jord og andre mer eller mindre usorterte masser [sterkt endret fastmark med jorddekke];S1∙A;NA-TM03;01;4;4;NA;0;0;0
+776;T35-2;sterkt endret fastmark med grusdekke;S1∙B;NA-TM03;03;4;2;NA;0;0;0
+777;T35-3;sterkt endret fastmark med sanddekke;S1∙C;NA-TM03;03;4;1;NA;0;0;0
+778;T35-4;sterkt endret fastmark med dekke av silt og leire;S1∙D;NA-TM03;02;3;3;NA;0;0;0
+780;T36-1;sterkt endret tidligere våtmarkssystem [sterkt endret tidligere våtmark];HS*∙A;NA.TM05;01,02;4;4;NA;0;0;0
+781;T36-2;tørrlagt tidligere elvebunn;HS*∙B;NA-TM04;01;4;4;NA;0;0;0
+782;T36-3;tørrlagt tidligere innsjøbunn;HS*∙C;NA-TM04;02;4;4;NA;0;0;0
+784;T37-1;ny fastmark på substrat med avvikende kjemisk sammensetning [slagghauger og deponier for fast kjemisk avfall];HS*∙A;NA-TM03;04;4;4;NA;0;0;0
+785;T37-2;ny fastmark på sterkt modifisert eller syntetisk, overveiende uorganisk substrat [asfalt, løs betong o.l.];HS*∙B;NA-TM03;07,08;4;4;NA;0;0;0
+786;T37-3;ny fastmark på sterkt modifisert eller syntetisk, overveiende organisk substrat [avfallsdeponi o.l.];HS*∙C;NA-TM03;05,06;4;4;NA;0;0;0
+788;T38-1;treplantasje;0;NA;×;NA;NA;54;0;0;1
+790;T39-1;blokkdeponi i pionerfase [blokkdeponi];HS*∙A | LA∙1;NA-TM01;01;4;2;NA;0;0;0
+791;T39-2;blokkdeponi i etablerings- og konsolideringsfase [blokkdeponi under gjengroing];HS*∙A | LA∙2;NA-TM01;01;4;0;NA;0;0;0
+792;T39-3;blottlagt fast fjell i pionerfase [dagbrudd, vegskjæringer i fjell o.l.];HS*∙B | LA∙1;NA-TM01;01;4;0;NA;0;0;0
+793;T39-4;blottlagt fast fjell i etablerings- og konsolideringsfase [dagbrudd, vegskjæringer i fjell o.l. under gjengroing];HS*∙B | LA∙2;NA-TM01;01;4;1;NA;0;0;0
+794;T39-5;fast fjell blottlagt ved tørrlegging eller nedtapping av vannforekomster i pionerfase [fast fjell blottlagt ved tørrlegging];HS*∙C | LA∙1;NA-TM02;01,02;4;2;NA;0;0;0
+795;T39-6;fast fjell blottlagt ved tørrlegging eller nedtapping av vannforekomster i etablerings- og konsolideringsfase [fast fjell blottlagt ved tørrlegging under gjengroing];HS*∙C | LA∙2;NA-TM02;01,02;4;1;NA;0;0;0
+796;T39-7;sterkt modifisert eller syntetisk, overveiende uorganisk fast substrat i pionerfase [metalloverflater, glass, glassfiber o.l.];HS*∙D | LA∙1;NA-TM01;03;4;2;NA;0;0;0
+797;T39-8;sterkt modifisert eller syntetisk, overveiende uorganisk fast substrat i etablerings- og konsolideringsfase [metalloverflater, glass, glassfiber o.l. under gjengroing];HS*∙D | LA∙2;NA-TM01;03;4;1;NA;0;0;0
+799;T40-1;sterkt endret fastmark med preg av semi-naturlig eng [vegkanter, plener, parker og liknende med semi-naturlig engpreg];0;NA-TN02;01;4;4;NA;0;0;0
+801;T41-1;oppdyrket mark med preg av semi-naturlig eng [oppdyret mark med semi-naturlig engpreg];0;NA-TO02;01;4;4;NA;0;0;0
+803;T42-1;sterkt endret, hyppig bearbeidet fastmark med intensivt hevdpreg [blomsterbed og annen hyppig bearbeidet mark] ;0;NA-TN01;01;4;4;NA;0;0;0
+805;T43-1;sterkt endret, varig fastmark med intensivt hevdpreg [plener, parker og liknende uten semi-naturlig engpreg];0;NA-TN03;01;4;4;NA;0;0;0
+807;T44-1;Åker;0;NA-TO01;01;4;4;NA;0;0;0
+809;T45-1;oppdyrket varig eng med nokså intensivt hevdpreg og beitepreget [oppdyrket lite intensiv beitemark];HI∙1 | SP∙A;"NA-TO03,NA-TO04";"01
+'01,02";3;4;NA;0;0;0
+810;T45-2;oppdyrket varig eng med nokså intensivt hevdpreg og slåttepreget [oppdyrket lite intensiv slåtteeng];HI∙1 | SP∙B;"NA-TO03,NA-TO04";"01,'02";3;3;NA;0;0;0
+811;T45-3;oppdyrket varig eng med intensivt hevdpreg og slåttepreget [oppdyrket intensiv slåtteeng];HI∙2 | SP∙B;NA-TO03;02,03;3;3;NA;0;0;0
+812;T45-4;oppdyrket varig eng med svært intensivt hevdpreg og slåttepreget [oppdyrket svært intensiv slåtteeng];HI∙3 | SP∙B;NA-TO03;04;3;3;NA;0;0;0
+814;V1-1;svært og temmelig kalkfattig mykmatte;KA∙1 | TV∙1;NA-VA01;01;4;4;NA;0;0;0
+815;V1-2;svært og temmelig kalkfattig nedre fastmatte;KA∙1 | TV∙2;NA-VA01;02;4;4;NA;0;0;0
+816;V1-3;svært og temmelig kalkfattig øvre fastmatte;KA∙1 | TV∙3;NA-VA01;03;4;4;NA;0;0;0
+817;V1-4;svært og temmelig kalkfattig nedre tuenivå;KA∙1 | TV∙4;NA-VA01;04;4;4;NA;0;0;0
+818;V1-5;svært og temmelig kalkfattig øvre tuenivå;KA∙1 | TV∙5;NA-VA01;05;4;4;NA;0;0;0
+819;V1-6;litt kalkfattig og svakt intermediær mykmatte;KA∙2 | TV∙1;NA-VA01;06;4;4;NA;0;0;0
+820;V1-7;litt kalkfattig og svakt intermediær nedre fastmatte;KA∙2 | TV∙2;NA-VA01;07;4;4;NA;0;0;0
+821;V1-8;litt kalkfattig og svakt intermediær øvre fastmatte;KA∙2 | TV∙3;NA-VA01;08;4;4;NA;0;0;0
+822;V1-9;litt kalkfattig og svakt intermediært nedre tuenivå;KA∙2 | TV∙4;NA-VA01;09;4;4;NA;0;0;0
+823;V1-10;sterkt intermediær og litt kalkrik mykmatte;KA∙3 | TV∙1;NA-VA01;10;4;4;NA;0;0;0
+824;V1-11;sterkt intermediær og litt kalkrik nedre fastmatte;KA∙3 | TV∙2;NA-VA01;11;4;4;NA;0;0;0
+825;V1-12;sterkt intermediær og litt kalkrik øvre fastmatte;KA∙3 | TV∙3;NA-VA01;12;4;4;NA;0;0;0
+826;V1-13;intermediært og litt kalkrikt nedre tuenivå;KA∙3 | TV∙4;NA-VA01;13;4;4;NA;0;0;0
+827;V1-14;temmelig og svært kalkrik mykmatte;KA∙4 | TV∙1;NA-VA01;14;4;4;NA;0;0;0
+828;V1-15;temmelig og svært kalkrik nedre fastmatte;KA∙4 | TV∙2;NA-VA01;15;4;4;NA;0;0;0
+829;V1-16;temmelig og svært kalkrik øvre fastmatte;KA∙4 | TV∙3;NA-VA01;16;4;4;NA;0;0;0
+830;V1-17;ekstremt kalkrik mykmatte;KA∙5 | TV∙1;NA-VA01;17;4;4;NA;0;0;0
+831;V1-18;ekstremt kalkrik nedre fastmatte;KA∙5 | TV∙2;NA-VA01;18;4;4;NA;0;0;0
+832;V1-19;ekstremt kalkrik øvre fastmatte;KA∙5 | TV∙3;NA-VA01;19;4;4;NA;0;0;0
+833;V1-20;temmelig til ekstremt kalkrik nedre tuenivå;KA∙4,5 | TV∙4;NA-VA01;20;4;4;NA;0;0;0
+834;V1-21;svært og temmelig kalkfattig mykmatte og nedre fastmatte i myrkant;KA∙1 | TV∙1,2 | MF∙1;NA-VA01;21;4;2;NA;0;0;0
+835;V1-22;svært og temmelig kalkfattig øvre fastmatte og tuer i myrkant;KA∙1 | TV∙3∙5 | MF∙1;NA-VA01;22;2;4;NA;0;0;0
+836;V1-23;litt kalkfattig og svakt intermediær mykmatte og nedre fastmatte i myrkant;KA∙2 | TV∙1,2 | MF∙1;NA-VA01;23;4;2;NA;0;0;0
+837;V1-24;litt kalkfattig og svakt intermediær øvre fastmatte og nedre tuenivå i myrkant;KA∙2 | TV∙3,4 | MF∙1;NA-VA01;24;2;4;NA;0;0;0
+838;V1-25;sterkt intermediær og litt kalkrik mykmatte og nedre fastmatte i myrkant;KA∙3 | TV∙1,2 | MF∙1;NA-VA01;25;4;2;NA;0;0;0
+839;V1-26;sterkt intermediær og litt kalkrik øvre fastmatte og nedre tuenivå i myrkant;KA∙3 | TV∙3,4 | MF∙1;NA-VA01;25,26;4;2;NA;0;0;0
+840;V1-27;temmelig og svært kalkrik mykmatte og nedre fastmatte i myrkant;KA∙4 | TV∙1,2 | MF∙1;NA-VA01;27;4;2;NA;0;0;0
+841;V1-28;ekstremt kalkrik mykmatte og nedre fastmatte i myrkant;KA∙5 | TV∙1,2 | MF∙1;NA-VA01;28;4;3;NA;0;0;0
+842;V1-29;temmelig til ekstremt kalkrik øvre fastmatte og nedre tuenivå i myrkant;KA∙4,5 | TV∙3,4 | MF∙1;NA-VA01;28,29;4;2;NA;0;0;0
+843;V1-30;sterkt intermediær og litt kalkrik mykmatte og nedre fastmatte i myrkant med svak kildepåvirkning [sterkt intermediær og litt kalkrik kildemyr];KA∙3 | TV∙1,2 | MF∙1 | KI∙2;NA-VA01;30;4;4;NA;0;0;0
+844;V1-31;temmelig og svært kalkrik mykmatte og nedre fastmatte i myrkant med svak kildepåvirkning [temmelig og svært kalkrik kildemyr];KA∙4 | TV∙1,2 | MF∙1 | KI∙2;NA-VA01;31;4;4;NA;0;0;0
+845;V1-32;temmelig og svært kalkrik mykmatte og nedre fastmatte i myrkant med saltpåvirkning [saltpåvirket myrkant];KA∙4 | TV∙1,2 | MF∙1 | SA∙2;NA-VA01;32;4;4;NA;0;0;0
+847;V2-1;kalkfattig myr- og sumpskogsmatte;KA-1 | TV-1;NA-VB01;01;2;4;NA;0;0;0
+848;V2-2;kalkfattig myr- og sumpskogstue;KA-1 | TV-2;NA-VB01;02;4;2;NA;0;0;0
+849;V2-3;intermediær myr- og sumpskogsmatte;KA-2 | TV-1;NA-VB01;03;2;4;NA;0;0;0
+850;V2-4;intermediær myr- og sumpskogstue;KA-2 | TV-2;NA-VB01;04;4;2;NA;0;0;0
+851;V2-5;kalkrik myr- og sumpskogsmatte;KA-3 | TV-1;NA-VB01;05;2;4;NA;0;0;0
+852;V2-6;kalkrik myr- og sumpskogstue;KA-3 | TV-2;NA-VB01;05,06;4;2;NA;0;0;0
+853;V2-7;intermediær myr- og sumpskogsmatte med svak kildevannspåvirkning;KA-2 | TV-1 | KI-2;NA-VB01;07;4;4;NA;0;0;0
+854;V2-8;kalkrik myr- og sumpskogsmatte med svak kildevannspåvirkning;KA-3 | TV-1 | KI-2;NA-VB01;08;4;4;NA;0;0;0
+856;V3-1;ombrotrof mykmatte;TV∙1;NA-VC01;01;4;4;NA;0;0;0
+857;V3-2;ombrotrof nedre fastmatte;TV∙2;NA-VC01;02;4;4;NA;0;0;0
+858;V3-3;ombrotrof øvre fastmatte;TV∙3;NA-VC01;03;4;4;NA;0;0;0
+859;V3-4;ombrotroft nedre tuenivå;TV∙4;NA-VC01;04;4;4;NA;0;0;0
+860;V3-5;ombrotroft øvre tuenivå;TV∙5;NA-VC01;05;4;2;NA;0;0;0
+861;V3-6;ombrotroft øvre tuenivå i myrkant [ombrotrof myrkant];TV∙5 | MF∙1;"NA-VC01,NA-VF01";"05,01";4;2;58;0;0;0
+862;V3-7;ombrotrof rabbepreget myrtue;TV∙5 | VI∙2;NA-VC01;06;3;4;59;0;0;0
+864;V4-1;litt kalkfattig og svakt intermediær svak eller ustabil kilde [litt kalkfattig og svakt intermediær svakkilde];KA∙1 | KI∙1;NA-VC03;01;4;4;NA;0;0;0
+865;V4-2;sterkt intermediær og litt kalkrik svak eller ustabil kilde [sterkt intermediær og litt kalkrik svakkilde];KA∙2 | KI∙1;NA-VC03;02;4;4;NA;0;0;0
+866;V4-3;sterkt intermediær og litt kalkrik stabil kilde [sterkt intermediær og litt kalkrik stabil kilde];KA∙2 | KI∙2;NA-VC03;04;4;4;NA;0;0;0
+867;V4-4;temmelig til ekstremt kalkrik svak eller ustabil kilde [temmelig til ekstremt kalkrik svakkilde];KA∙3 | KI∙1;NA-VC03;03;4;4;NA;0;0;0
+868;V4-5;temmelig til ekstremt kalkrik stabil kilde [temmelig til ekstremt kalkrik stabil kilde];KA∙3 | KI∙2;NA-VC03;05;4;4;NA;0;0;0
+869;V4-6;sterkt intermediær og litt kalkrik svak eller ustabil torvmarkskilde [sterkt intermediær og litt kalkrik svak dypkilde];KA∙2 | KI∙1 | KT∙2;NA-VC02;02;4;4;NA;0;0;0
+870;V4-7;sterkt intermediær og litt kalkrik stabil torvmarkskilde [sterkt intermediær og litt kalkrik stabil dypkilde];KA∙2 | KI∙2 | KT∙2;NA-VC02;04;4;4;NA;0;0;0
+871;V4-8;temmelig til ekstremt kalkrik svak eller ustabil torvmarkskilde [temmelig til ekstremt kalkrik svak dypkilde];KA∙3 | KI∙1 | KT∙2;NA-VC02;03;4;4;NA;0;0;0
+872;V4-9;temmelig til ekstremt kalkrik stabil torvmarkskilde [temmelig til ekstremt kalkrik stabil dypkilde];KA∙3 | KI∙2 | KT∙2;NA-VC02;05;4;4;NA;0;0;0
+874;V5-1;svakt jordvarmeinfluert kilde [svak varmkilde];JV∙1;NA;×;NA;NA;NA;0;0;1
+875;V5-2;klart jordvarmeinfluert kilde [klar varmkilde];JV∙2;NA;×;NA;NA;NA;0;0;1
+877;V6-1;litt kalkfattig til litt kalkrikt moderat våtsnøleie [kalkfattig og intermediært moderat våtsnøleie];SV∙1 | KA∙1 | KI∙1;NA-VC04;03;4;4;NA;0;0;0
+878;V6-2;temmelig til ekstremt kalkrikt moderat våtsnøleie [kalkrikt moderat våtsnøleie];SV∙1 | KA∙2 | KI∙1;NA-VC04;04;4;4;NA;0;0;0
+879;V6-3;litt kalkfattig til litt kalkrikt seint våtsnøleie [kalkfattig og intermediært seint våtsnøleie];SV∙2 | KA∙1 | KI∙1;NA-VC04;07;4;4;NA;0;0;0
+880;V6-4;temmelig til ekstremt kalkrikt seint våtsnøleie [kalkrikt seint våtsnøleie];SV∙2 | KA∙2 | KI∙1;NA-VC04;08;4;4;NA;0;0;0
+881;V6-5;litt kalkfattig til litt kalkrikt ekstrem-våtsnøleie [kalkfattig og intermediært ekstrem-våtsnøleie];SV∙3 | KA∙1 | KI∙1;NA-VC04;11;4;4;NA;0;0;0
+882;V6-6;temmelig til ekstremt kalkrikt ekstrem-våtsnøleie [kalkrikt ekstrem-våtsnøleie];SV∙3 | KA∙2 | KI∙1;NA-VC04;12;4;4;NA;0;0;0
+883;V6-7;litt kalkfattig til litt kalkrikt seint kildesnøleie [kalkfattig og intermediært seint kildesnøleie];SV∙2 | KA∙1 | KI∙2;NA-VC04;09;4;4;NA;0;0;0
+884;V6-8;temmelig til ekstremt kalkrikt seint kildesnøleie [kalkrikt seint kildesnøleie];SV∙2 | KA∙2 | KI∙2;NA-VC04;10;4;4;NA;0;0;0
+885;V6-9;ekstrem-kildesnøleie;SV∙3 | KA∙1,2 | KI∙2;NA-VC04;13,14;4;4;NA;0;0;0
+887;V7-1;litt kalkfattig til litt kalkrikt permafrost-våtmark [kalkfattig og intermediær permafrost-våtmark];KA∙1;NA-VC05;01,02;3;1;NA;0;0;0
+888;V7-2;temmelig til ekstremt kalkrik permafrost-våtmark [kalkrik permafrost-våtmark];KA∙2;NA-VC05;01,02;3;2;NA;0;0;0
+890;V8-1;litt kalkfattig og intermediær strandsumpskogsmark [kalkfattig og intermediær strand- og sumpskogsmark];KA∙1;NA-VF02;01;4;2;NA;0;0;0
+891;V8-2;litt til svært kalkrik strandsumpskogsmark [kalkrik strand- og sumpskogsmark];KA∙2;NA-VF02;02;2;4;NA;0;0;0
+892;V8-3;litt til svært kalkrik saltpåvirket strandsumpskogsmark [saltpåvirket strand- og sumpskogsmark];KA∙2 | SA∙2;NA-VF02;04;4;4;NA;0;0;0
+894;V9-1;temmelig kalkfattig til svakt intermediær semi-naturlig myr [kalkfattig semi-naturlig myr];KA∙1;NA-VK01;01;2;3;NA;0;0;0
+895;V9-2;sterkt intermediær og litt kalkrik semi-naturlig myr [intermediær semi-naturlig myr];KA∙2;NA-VK01;02;2;2;NA;0;0;0
+896;V9-3;temmelig til ekstremt kalkrik semi-naturlig myr [kalkrik semi-naturlig myr];KA∙3;NA-VK01;03;3;3;NA;0;0;0
+898;V10-1;litt kalkfattig til sterkt intermediær semi-naturlig våteng [intermediær våteng];KA∙1 | KI∙1;NA-VK02;01,02;4;2;NA;0;0;0
+899;V10-2;litt til svært kalkrik semi-naturlig våteng [kalkrik våteng];KA∙2 | KI∙1;NA-VK02;02,03;4;2;NA;0;0;0
+900;V10-3;semi-naturlig våteng med svak kildevannspåvirkning [kildevannspåvirket våteng];KA∙1,2 | KI∙2;NA-VK02;04;4;4;NA;0;0;0
+902;V11-1;svært kalkfattig til svakt intermediært torvtak [kalkfattig torvtak];KA∙1;"NA-VM01,NA-VM04";"05,06,02";4;2;NA;0;0;0
+903;V11-2;sterkt intermediært til svært kalkrikt torvtak [kalkrikt torvtak];KA∙2;"NA-VM01,NA-VM04";"05,02";4;1;NA;0;0;0
+905;V12-1;grøftet svært kalkfattig til svakt intermediær jordvannsmyr [grøftet kalkfattig jordvannsmyr];VT∙A | KA∙1;"NA-VM01,NA-VM04";"01,'01";4;3;NA;0;0;0
+906;V12-2;grøftet sterkt intermediær til svært kalkrik jordvannsmyr [grøftet kalkrik jordvannsmyr];VT∙A | KA∙2;"NA-VM01,NA-VM04";"02,03,01";4;3;NA;0;0;0
+907;V12-3;grøftet nedbørsmyr;VT∙B | KA∙1;"NA-VM01,NA-VM04";"04,01";4;3;NA;0;0;0
+909;V13-1;ny våtmark med opprinnelse i sterkt endret fastmarkssystem som ikke er jordbruksmark [ny våtmark på tidligere fastmark ];HS*∙A | IO∙1;NA-VM06;01;4;0;NA;0;0;0
+910;V13-2;ny våtmark med opprinnelse i sterkt endret fastmarkssystem som ikke er jordbruksmark med torvdannelse [torvdannende ny våtmark på tidligere fastmark ];HS*∙A | IO∙2;NA-VM03;01;4;0;NA;0;0;0
+911;V13-3;ny våtmark med opprinnelse i jordbruksmark på fastmark [ny våtmark på tidligere jordbruks-fastmark ];HS*∙B | IO∙1;NA-VM06;01;4;1;NA;0;0;0
+912;V13-4;ny våtmark med opprinnelse i jordbruksmark på fastmark med torvdannelse [torvdannende ny våtmark på tidligere jordbruks-fastmark];HS*∙B | IO∙2;NA-VM03;01;4;1;NA;0;0;0
+913;V13-5;ny våtmark med opprinnelse i neddemt skogsmark [ny våtmark på tidligere neddemt skogsmark];HS*∙C | IO∙1;NA-VM06;01;4;2;NA;0;0;0
+914;V13-6;ny våtmark med opprinnelse i neddemt skogsmark med torvdannelse [torvdannende ny våtmark på tidligere neddemt skogsmark];HS*∙C | IO∙2;NA-VM03;01;4;2;NA;0;0;0
+915;V13-7;ny våtmark med opprinnelse i ferskvannsbunn [ny våtmark på tidligere ferskvannsbunn];HS*∙D | IO∙1;NA-VM05;01;4;4;NA;0;0;0
+916;V13-8;ny våtmark med opprinnelse i ferskvannsbunn med torvdannelse [torvdannende ny våtmark på tidligere ferskvannsbunn];HS*∙D | IO∙2;NA-VM02;01;4;4;NA;0;0;0
+918;I1-1;Snø- og isdekt fastmark;0;NA-IA01;01,02,03;4;4;NA;0;0;0
+920;I2-1;Polar havis;0;NA-IA01;04;4;4;NA;0;0;0
+922;H1-1;epipelagiale havvannmasser;DM∙1 | KY∙1;NA-HA01;01,02;2;1;70;0;0;0
+923;H1-2;mesopelagiale havvannmasser;DM∙2 | KY∙1;NA-HC01;01;3;3;NA;0;0;0
+924;H1-3;bathypelagiale havvannmasser;DM∙3 | KY∙1;NA-HC01;02;3;2;NA;0;0;0
+925;H1-4;abyssopelagiale havvannmasser;DM∙4 | KY∙1;NA-HC01;02;3;1;NA;0;0;0
+926;H1-5;epipelagiale kystvannmasser;DM∙1 | KY∙2;NA-HA01;01,02;2;2;70;0;0;0
+928;H2-1;fjord;SA∙2 | SM∙1;"NA-HC02,NA-HC03";"01,02,'01";3;2;71, 72;0;0;0
+929;H2-2;stor poll;SA∙2 | SM∙2;NA-HC05;01;4;2;NA;0;0;0
+930;H2-3;middels stor eller liten poll [mindre poll];SA∙2 | SM∙3;NA-HC05;01;4;1;NA;0;0;0
+931;H2-4;stort litoralbasseng;SA∙2 | SM∙4;NA-HC05;02;4;1;NA;0;0;0
+932;H2-5;lite litoralbasseng;SA∙2 | SM∙5;NA-HC05;02;4;2;NA;0;0;0
+933;H2-6;temporært litoralbasseng;SA∙2 | SM∙6;NA-HC05;02;4;0;NA;0;0;0
+934;H2-7;stor brakkvannspoll;SA∙1 | SM∙2;NA-HC05;01;4;1;NA;0;0;0
+935;H2-8;middels stor eller liten brakkvannspoll [mindre brakkvannspoll];SA∙1 | SM∙3;NA-HC05;01;4;0;NA;0;0;0
+937;H3-1;Ikke-sirkulerende marine vannmasser i fysisk avgrensete saltvannsforekomster [ikke-sirkulerende vannmasser i fjorder og poller];0;NA-HC04;02;4;4;NA;0;0;0
+939;H4-1;vannmasser sterkt endret gjennom fysiske inngrep;SY∙A;NA-HM02;01;4;3;NA;0;0;0
+940;H4-2;vannmasser sterkt endret gjennom kjemiske inngrep;SY∙B;NA-HM03;01;4;4;NA;0;0;0
+941;H4-3;vannmasser sterkt endret gjennom biologiske inngrep;SY∙C;NA;×;NA;NA;73;0;0;1
+942;H4-4;nye marine vannmasser;SY∙D;NA-HM01;01;4;4;NA;0;0;0
+944;F1-1;Svært kalkfattige og klare lagdelte vannmasser med enkelt fiskesamfunn;FS∙A | KA∙1 | HU∙1;NA-FB01;01;4;4;NA;0;0;0
+945;F1-2;Svært kalkfattige og humøse lagdelte vannmasser med enkelt fiskesamfunn;FS∙A | KA∙1 | HU∙2;NA-FB01;02;4;4;NA;0;0;0
+946;F1-3;Noe kalkfattige og klare lagdelte vannmasser med enkelt fiskesamfunn;FS∙A | KA∙2 | HU∙1;NA-FB01;03;4;4;NA;0;0;0
+947;F1-4;Noe kalkfattige og humøse lagdelte vannmasser med enkelt fiskesamfunn;FS∙A | KA∙2 | HU∙2;NA-FB01;04;4;4;NA;0;0;0
+948;F1-5;Moderat kalkrike lagdelte vannmasser med enkelt fiskesamfunn;FS∙A | KA∙3 | HU∙12;NA-FB01;05;4;4;NA;0;0;0
+949;F1-6;Svært kalkrike lagdelte vannmasser med enkelt fiskesamfunn;FS∙A | KA∙4 | HU∙12;NA-FB01;06;4;4;NA;0;0;0
+950;F1-7;Svært kalkfattige og klare lagdelte vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙1 | HU∙1;NA-FB01;07;4;4;NA;0;0;0
+951;F1-8;Svært kalkfattige og humøse lagdelte vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙1 | HU∙2;NA-FB01;08;4;4;NA;0;0;0
+952;F1-9;Noe kalkfattige og klare lagdelte vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙2 | HU∙1;NA-FB01;09;4;4;NA;0;0;0
+953;F1-10;Noe kalkfattige og humøse lagdelte vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙2 | HU∙2;NA-FB01;10;4;4;NA;0;0;0
+954;F1-11;Moderat kalkrike lagdelte vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙3 | HU∙12;NA-FB01;11;4;4;NA;0;0;0
+955;F1-12;Svært kalkrike lagdelte vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙4 | HU∙12;NA-FB01;12;4;4;NA;0;0;0
+956;F1-13;Svært kalkfattige og klare lagdelte vannmasser med komplekst fiskesamfunn;FS∙C | KA∙1 | HU∙1;NA-FB01;13;4;4;NA;0;0;0
+957;F1-14;Svært kalkfattige og humøse lagdelte vannmasser med komplekst fiskesamfunn;FS∙C | KA∙1 | HU∙2;NA-FB01;14;4;4;NA;0;0;0
+958;F1-15;Noe kalkfattige og klare lagdelte vannmasser med komplekst fiskesamfunn;FS∙C | KA∙2 | HU∙1;NA-FB01;15;4;4;NA;0;0;0
+959;F1-16;Noe kalkfattige og humøse lagdelte vannmasser med komplekst fiskesamfunn;FS∙C | KA∙2 | HU∙2;NA-FB01;16;4;4;NA;0;0;0
+960;F1-17;Moderat kalkrike lagdelte vannmasser med komplekst fiskesamfunn;FS∙C | KA∙3 | HU∙12;NA-FB01;17;4;4;NA;0;0;0
+961;F1-18;Svært kalkrike lagdelte vannmasser med komplekst fiskesamfunn;FS∙C | KA∙4 | HU∙12;NA-FB01;18;4;4;NA;0;0;0
+963;F2-1;Svært kalkfattige og klare grunne vannmasser med enkelt fiskesamfunn;FS∙A | KA∙1 | HU∙1;NA-FB02;01;4;4;NA;0;0;0
+964;F2-2;Svært kalkfattige og humøse grunne vannmasser med enkelt fiskesamfunn;FS∙A | KA∙1 | HU∙2;NA-FB02;02;4;4;NA;0;0;0
+965;F2-3;Noe kalkfattige og klare grunne vannmasser med enkelt fiskesamfunn;FS∙A | KA∙2 | HU∙1;NA-FB02;03;4;4;NA;0;0;0
+966;F2-4;Noe kalkfattige og humøse grunne vannmasser med enkelt fiskesamfunn;FS∙A | KA∙2 | HU∙2;NA-FB02;04;4;4;NA;0;0;0
+967;F2-5;Moderat kalkrike grunne vannmasser med enkelt fiskesamfunn;FS∙A | KA∙3 | HU∙12;NA-FB02;05;4;4;NA;0;0;0
+968;F2-6;Svært kalkrike grunne vannmasser med enkelt fiskesamfunn;FS∙A | KA∙4 | HU∙12;NA-FB02;06;4;4;NA;0;0;0
+969;F2-7;Svært kalkfattige og klare grunne vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙1 | HU∙1;NA-FB02;07;4;4;NA;0;0;0
+970;F2-8;Svært kalkfattige og humøse grunne vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙1 | HU∙2;NA-FB02;08;4;4;NA;0;0;0
+971;F2-9;Noe kalkfattige og klare grunne vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙2 | HU∙1;NA-FB02;09;4;4;NA;0;0;0
+972;F2-10;Noe kalkfattige og humøse grunne vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙2 | HU∙2;NA-FB02;10;4;4;NA;0;0;0
+973;F2-11;Moderat kalkrike grunne vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙3 | HU∙12;NA-FB02;11;4;4;NA;0;0;0
+974;F2-12;Svært kalkrike grunne vannmasser med middels komplekst fiskesamfunn;FS∙B | KA∙4 | HU∙12;NA-FB02;12;4;4;NA;0;0;0
+975;F2-13;Svært kalkfattige og klare grunne vannmasser med komplekst fiskesamfunn;FS∙C | KA∙1 | HU∙1;NA-FB02;13;4;4;NA;0;0;0
+976;F2-14;Svært kalkfattige og humøse grunne vannmasser med komplekst fiskesamfunn;FS∙C | KA∙1 | HU∙2;NA-FB02;14;4;4;NA;0;0;0
+977;F2-15;Noe kalkfattige og klare grunne vannmasser med komplekst fiskesamfunn;FS∙C | KA∙2 | HU∙1;NA-FB02;15;4;4;NA;0;0;0
+978;F2-16;Noe kalkfattige og humøse grunne vannmasser med komplekst fiskesamfunn;FS∙C | KA∙2 | HU∙2;NA-FB02;16;4;4;NA;0;0;0
+979;F2-17;Moderat kalkrike grunne vannmasser med komplekst fiskesamfunn;FS∙C | KA∙3 | HU∙12;NA-FB02;17;4;4;NA;0;0;0
+980;F2-18;Svært kalkrike grunne vannmasser med komplekst fiskesamfunn;FS∙C | KA∙4 | HU∙12;NA-FB02;18;4;4;NA;0;0;0
+982;F3-1;Svært kalkfattige og klare lagdelte vannmasser uten fisk;KA∙1 | HU∙1;NA-FA01;01;4;4;NA;0;0;0
+983;F3-2;Svært kalkfattige og humøse lagdelte vannmasser uten fisk;KA∙1 | HU∙2;NA-FA01;02;4;4;NA;0;0;0
+984;F3-3;Noe kalkfattige og klare lagdelte vannmasser uten fisk;KA∙2 | HU∙1;NA-FA01;03;4;4;NA;0;0;0
+985;F3-4;Noe kalkfattige og humøse lagdelte vannmasser uten fisk;KA∙2 | HU∙2;NA-FA01;04;4;4;NA;0;0;0
+986;F3-5;Moderat kalkrike lagdelte vannmasser uten fisk;KA∙3 | HU∙12;NA-FA01;05;4;4;NA;0;0;0
+987;F3-6;Svært kalkrike lagdelte vannmasser uten fisk;KA∙4 | HU∙12;NA-FA01;06;4;4;NA;0;0;0
+989;F4-1;Svært kalkfattige og klare store grunne vannmasser uten fisk;KA∙1 | SM∙1 | HU∙1 | VT∙A;NA-FA02;01;4;4;NA;0;0;0
+990;F4-2;Svært kalkfattige og klare små grunne vannmasser uten fisk;KA∙1 | SM∙2 | HU∙1 | VT∙A;NA-FA02;02;4;4;NA;0;0;0
+991;F4-3;Noe kalkfattige og klare store grunne vannmasser uten fisk;KA∙2 | SM∙1 | HU∙1 | VT∙A;NA-FA02;05;4;4;NA;0;0;0
+992;F4-4;Noe kalkfattige og klare små grunne vannmasser uten fisk;KA∙2 | SM∙2 | HU∙1 | VT∙A;NA-FA02;06;4;4;NA;0;0;0
+993;F4-5;Moderat kalkrike og klare store grunne vannmasser uten fisk;KA∙3 | SM∙1 | HU∙1 | VT∙A;NA-FA02;09;4;4;NA;0;0;0
+994;F4-6;Moderat kalkrike og klare små grunne vannmasser uten fisk;KA∙3 | SM∙2 | HU∙1 | VT∙A;NA-FA02;10;4;4;NA;0;0;0
+995;F4-7;Svært kalkrike og klare store grunne vannmasser uten fisk;KA∙4 | SM∙1 | HU∙1 | VT∙A;NA-FA02;13;4;4;NA;0;0;0
+996;F4-8;Svært kalkrike og klare små grunne vannmasser uten fisk;KA∙4 | SM∙2 | HU∙1 | VT∙A;NA-FA02;14;4;4;NA;0;0;0
+997;F4-9;Svært kalkfattige og humøse store grunne vannmasser uten fisk;KA∙1 | SM∙1 | HU∙2 | VT∙A;NA-FA02;03;4;4;NA;0;0;0
+998;F4-10;Svært kalkfattige og humøse små grunne vannmasser uten fisk;KA∙1 | SM∙2 | HU∙2 | VT∙A;NA-FA02;04;4;4;NA;0;0;0
+999;F4-11;Noe kalkfattige og humøse store grunne vannmasser uten fisk;KA∙2 | SM∙1 | HU∙2 | VT∙A;NA-FA02;07;4;4;NA;0;0;0
+1000;F4-12;Noe kalkfattige og humøse små grunne vannmasser uten fisk;KA∙2 | SM∙2 | HU∙2 | VT∙A;NA-FA02;08;4;4;NA;0;0;0
+1001;F4-13;Moderat kalkrike og humøse store grunne vannmasser uten fisk;KA∙3 | SM∙1 | HU∙2 | VT∙A;NA-FA02;11;4;4;NA;0;0;0
+1002;F4-14;Moderat kalkrike og humøse små grunne vannmasser uten fisk;KA∙3 | SM∙2 | HU∙2 | VT∙A;NA-FA02;12;4;4;NA;0;0;0
+1003;F4-15;Svært kalkrike og humøse store grunne vannmasser uten fisk;KA∙4 | SM∙1 | HU∙2 | VT∙A;NA-FA02;15;4;4;NA;0;0;0
+1004;F4-16;Svært kalkrike og humøse små grunne vannmasser uten fisk;KA∙4 | SM∙2 | HU∙2 | VT∙A;NA-FA02;16;4;4;NA;0;0;0
+1005;F4-17;Små og grunne humøse vannmasser uten fisk (høljegjøl);SM∙2 | HU∙2 | VT∙B;NA-FA02;17;4;4;NA;0;0;0
+1007;F5-1;Kalkfattige litt turbide vannmasser;TU∙1 | KA∙1;NA-FC01;01;4;4;NA;0;0;0
+1008;F5-2;Kalkrike litt turbide vannmasser;TU∙1 | KA∙2;NA-FC01;02;4;4;NA;0;0;0
+1009;F5-3;Svært turbide vannmasser;TU∙2 | KA∙12;NA-FC01;03;4;4;NA;0;0;0
+1011;F6-1;Grottesjø-vannmasser;0;NA-FC02;01;4;4;NA;0;0;0
+1013;F7-1;Innsjø-vannmasser med periodisk oksygenmangel;FK∙A | OM∙1;NA-FC04;01;4;4;NA;0;0;0
+1014;F7-2;Anoksiske innsjø-vannmasser betinget av gammelt havvann;FK∙B | OM∙2;NA-FC04;02;4;4;NA;0;0;0
+1015;F7-3;Anoksiske innsjø-vannmasser betinget av saltholdig kildevann;FK∙C | OM∙2;NA-FC04;03;4;4;NA;0;0;0
+1016;F7-4;Anoksiske innsjø-vannmasser betinget av jernholdig vann;FK∙D | OM∙2;NA-FC04;04;4;4;NA;0;0;0
+1017;F7-5;Anoksiske innsjø-vannmasser betinget av kalkrikt vann;FK∙E | OM∙2;NA-FC04;05;4;4;NA;0;0;0
+1018;F7-6;Anoksiske innsjø-vannmasser betinget av humusrikt vann;FK∙F | OM∙2;NA-FC04;06;4;4;NA;0;0;0
+1020;F8-1;Elvevannmasser uten fisk;FS∙A;NA-FB03;01;4;4;NA;0;0;0
+1021;F8-2;Elvevannmasser med fisk;FS∙B;NA-FB03;02;4;4;NA;0;0;0
+1023;F9-1;Kalkfattige grunne nye innsjø-vannmasser uten fisk;FS∙A | KA∙1 | HY∙A;NA-FM01;01;4;4;NA;0;0;0
+1024;F9-2;Kalkfattige lagdelte nye innsjø-vannmasser uten fisk;FS∙A | KA∙1 | HY∙B;NA-FM01;02;4;4;NA;0;0;0
+1025;F9-3;Kalkrike grunne nye innsjø-vannmasser uten fisk;FS∙A | KA∙2 | HY∙A;NA-FM01;03;4;4;NA;0;0;0
+1026;F9-4;Kalkrike lagdelte nye innsjø-vannmasser uten fisk;FS∙A | KA∙2 | HY∙B;NA-FM01;04;4;4;NA;0;0;0
+1027;F9-5;Kalkfattige grunne nye innsjø-vannmasser med fisk;FS∙B | KA∙1 | HY∙A;NA-FM01;05;4;4;NA;0;0;0
+1028;F9-6;Kalkfattige lagdelte nye innsjø-vannmasser med fisk;FS∙B | KA∙1 | HY∙B;NA-FM01;06;4;4;NA;0;0;0
+1029;F9-7;Kalkrike grunne nye innsjø-vannmasser med fisk;FS∙B | KA∙2 | HY∙A;NA-FM01;07;4;4;NA;0;0;0
+1030;F9-8;Kalkrike lagdelte nye innsjø-vannmasser med fisk;FS∙B | KA∙2 | HY∙B;NA-FM01;08;4;4;NA;0;0;0
+1032;F10-1;Kronisk kjemisk påvirkede innsjø-vannmasser;MK∙A;NA-FM02;01;4;4;NA;0;0;0
+1033;F10-2;Kronisk saltpåvirkede innsjø-vannmasser;MK∙B;NA-FM02;02;4;4;NA;0;0;0
+1034;F10-3;Kronisk eutrofierte innsjø-vannmasser;MK∙C;NA-FM02;03;4;4;NA;0;0;0
+1035;F10-4;Kronisk forsurede innsjø-vannmasser;MK∙D;NA-FM02;04;4;4;NA;0;0;0
+1037;F11-1;Sterkt endrede kalkfattige innsjø-vannmasser preget av introduksjon eller bortfall av strukturerende organismer;KA∙1;NA-FM03;01;4;4;NA;0;0;0
+1038;F11-2;Sterkt endrede kalkrike innsjø-vannmasser preget av introduksjon eller bortfall av strukturerende organismer;KA∙2;NA-FM03;02;4;4;NA;0;0;0
+1040;F12-1;Sterkt forsurede elvevannmasser;0;NA-FM04;01;4;4;NA;0;0;0
+1042;F13-1;Sterkt endrede elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer;0;NA-FM05;01,02;4;4;NA;0;0;0
