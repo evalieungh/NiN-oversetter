@@ -1,5 +1,7 @@
 # NiN-oversetter
 
+NB! Denne kodebasen er under arbeid og er **ikke klar til bruk**.
+
 Automatisk oversettelse av NiN kartleggingsenheter fra versjon 2.3 til 3.0. Startet 2025-09-11.
 
 For å bruke oversetteren, trengs en liste over kartleggingsenheter i lik skala i en tekstfil hvor det er én kartleggingsenhet per rad. Se Eksempeldata.csv for hvordan formatteringen burde være. For å bruke koden trenger du R (og evt. RStudio). Last ned (klon) dette prosjektet, legg inndataene dine i samme mappe, og bruk skriptet NiN-oversetter.R til å kjøre koden. 
